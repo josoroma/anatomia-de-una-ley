@@ -13,7 +13,7 @@ resumen: "Cómo se redacta una norma que se entiende, se aplica y no se presta a
 
 ## El hecho jurídico
 
-El corpus dedica una parte sustancial a la redacción del texto legislativo. Sus exigencias centrales son tres:
+La técnica legislativa dedica una parte sustancial a la redacción del texto. Sus exigencias centrales son tres:
 
 1. **Claridad.** El texto debe ser comprensible por su destinatario, no solo por el redactor.
 2. **Precisión.** Cada término debe tener un sentido unívoco; los conceptos jurídicos indeterminados deben usarse con cautela.
@@ -24,7 +24,7 @@ El corpus dedica una parte sustancial a la redacción del texto legislativo. Sus
 
 ## Cómo funciona: las partes del texto
 
-Un texto legislativo bien estructurado se compone, según el corpus, de partes reconocibles:
+Un texto legislativo bien estructurado se compone de partes reconocibles:
 
 - **Título.** Identifica la norma y su objeto.
 - **Exposición de motivos / considerandos.** Explica la necesidad y el fin de la norma. No es parte dispositiva, pero es la única pieza donde el legislador declara *por qué* legisla.
@@ -49,7 +49,3 @@ Por eso abundan las normas oscuras y los "marcos normativos" que en realidad son
 La regla de oro de la redacción que esta obra propone es la **prueba del tercero lego**: una norma está bien escrita cuando una persona razonable, sin acceso al redactor, puede saber qué conducta exige, qué prohíbe y qué consecuencia trae. Si la norma no supera esa prueba, la falla no es del lector, sino del redactor.
 
 La claridad no es una preferencia estética: es la condición de la libertad. Donde la ley es oscura, el ciudadano depende del permiso o de la interpretación de un tercero; donde es clara, puede actuar con seguridad y exigir que el poder se ciña al texto. Técnica legislativa es, en última instancia, técnica de libertad.
-
----
-
-**Fuente del capítulo.** Corpus: `formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md`; `tecnica-legislativa/01-doctrina/24-tecnica-juridica-redaccion-leyes.md`, `26-lenguaje-juridico-redaccion-leyes.md`.

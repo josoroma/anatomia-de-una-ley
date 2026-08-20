@@ -52,7 +52,3 @@ Pero la práctica legislativa erosiona ese diseño de tres maneras recurrentes: 
 ## Juicio normativo
 
 Si se quiere que la ley sea el resultado de una deliberación genuina y no de una negociación opaca, el diseño institucional debe priorizar: publicidad efectiva del trámite (acceso anticipado a los textos), tiempo real de estudio, derechos de enmienda efectivos para las minorías y mecanismos que desincentiven la aprobación de normas cuyos efectos nadie ha estimado. La pregunta rectora no es "¿quién ganó la votación?", sino "¿qué información y qué contrapesos hubo antes de que se votara?".
-
----
-
-**Fuente del capítulo.** CP arts. 105, 121, 124. Corpus: `formulacion-y-tramite/04-i-asamblea-legislativa-y-sus-funciones.md`; `tecnica-legislativa/01-doctrina/03-funcion-legislativa-de-la-asamblea.md`.

@@ -50,7 +50,7 @@
 
 ### Cierre
 
-25. [Fuentes y referencias](capitulos/25-fuentes-y-referencias.md) — Todo lo que respalda esta obra: normativa, doctrina, jurisprudencia y material de trabajo del corpus.
+25. [Fuentes y referencias](capitulos/25-fuentes-y-referencias.md) — La bibliografía que respalda esta obra: normativa, jurisprudencia y las obras y publicaciones citadas.
 
 ## Herramientas
 

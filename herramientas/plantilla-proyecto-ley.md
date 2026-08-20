@@ -1,7 +1,7 @@
 # Plantilla de proyecto de ley
 
 > Plantilla editable y autosuficiente. Reproduzca y complete cada sección.
-> Las reglas provienen del corpus `plantilla-proyecto-ley/` y de la técnica legislativa compilada.
+> Las reglas provienen del Reglamento de la Asamblea Legislativa y de la práctica parlamentaria costarricense.
 
 ---
 
@@ -142,7 +142,3 @@ Para proyectos del Poder Ejecutivo:
 
 - Cada proyecto debe tratar una sola materia.
 - Las reformas a distintas leyes solo se admiten si son conexas con la materia principal.
-
----
-
-**Fuente.** Corpus `plantilla-proyecto-ley/01` a `06`; `tecnica-legislativa/01-doctrina/09-requisitos-formales.md` y `25-estructura-logica.md`. Normativa: CP arts. 124, 129, 140 inc. 3; RAL art. 113.

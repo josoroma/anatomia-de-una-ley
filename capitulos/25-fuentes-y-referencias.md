@@ -3,44 +3,40 @@ numero: 25
 parte: "Cierre"
 titulo: "Fuentes y referencias"
 slug: "fuentes-y-referencias"
-resumen: "Todo lo que respalda esta obra: normativa, doctrina, jurisprudencia y material de trabajo del corpus."
+resumen: "La bibliografía que respalda esta obra: normativa, jurisprudencia y las obras y publicaciones citadas."
 ---
 
 # Fuentes y referencias
 
 > [!concepto]
-> **Rastreabilidad.** Cada afirmación normativa de esta obra se apoya en una fuente del corpus. Esta sección las ordena para verificación y consulta. Las citas literales conservan el texto fuente.
+> **Rastreabilidad.** Cada afirmación normativa de esta obra remite a un precepto constitucional o reglamentario, a una resolución jurisprudencial o a una obra doctrinal identificable, listada aquí para verificación y consulta. Las citas literales conservan el texto original.
 
-## Normativa (autoridad vinculante)
+## Normativa
 
-- **Constitución Política de la República de Costa Rica.** En especial: art. 105 (potestad de legislar y referéndum), art. 121 (atribuciones de la Asamblea), art. 123 (iniciativa), art. 124 (formación de la ley y delegación), arts. 125-128 (sanción, veto, resello, veto por inconstitucionalidad), art. 129 (obligatoriedad, publicación, derogación), art. 140 inc. 3 (iniciativa ejecutiva), arts. 195-196 (reforma parcial y general).
-  - Corpus: `data/markdown/derecho_constitucional/article_0105.md` y `article_0121.md` a `article_0129.md`, `article_0195.md`, `article_0196.md`.
-- **Reglamento de la Asamblea Legislativa (RAL).** En especial: art. 19 (orden del día), art. 34 (informe y Gaceta), arts. 72-73 (comisiones con potestad legislativa plena), arts. 81-82 (mociones y dictamen), art. 113 (presentación), art. 119 (caducidad, reformado en 2022), arts. 146, 207-208 (consultas y veto).
-  - Corpus: `data/markdown/derecho_parlamentario_reglamento_asamblea_legislativa/article_*.md`.
-- **Ley de la Jurisdicción Constitucional.** En especial arts. 81-82 (consultas) y el régimen de control de constitucionalidad.
+- **Constitución Política de la República de Costa Rica.** En especial: art. 105 (potestad de legislar y referéndum), art. 121 (atribuciones de la Asamblea), art. 123 (iniciativa), art. 124 (formación de la ley y delegación), arts. 125-128 (sanción, veto, resello, veto por inconstitucionalidad), art. 129 (obligatoriedad, publicación, derogación), art. 140 inc. 3 (iniciativa ejecutiva) y arts. 195-196 (reforma parcial y general).
+- **Reglamento de la Asamblea Legislativa.** En especial: art. 19 (orden del día), art. 34 (informe y publicación en La Gaceta), arts. 72-73 (comisiones con potestad legislativa plena), arts. 81-82 (mociones y dictamen), art. 113 (presentación), art. 119 (caducidad, reformado en 2022), y arts. 146, 207-208 (consultas y veto).
+- **Ley de la Jurisdicción Constitucional.** En especial arts. 81-82 (consultas legislativas de constitucionalidad) y el régimen de control de constitucionalidad.
 - **Código Civil, art. 6** (regla supletoria de vigencia).
 
 ## Jurisprudencia
 
-- **Sala Constitucional, res. N.º 2007-002901** de las 15:39 horas del 28 de febrero de 2007, expediente 07-001189-0007-CO. Consulta legislativa facultativa de constitucionalidad sobre el procedimiento especial del artículo 208 bis del Reglamento (TLC/CAFTA). Corpus: `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md`.
+- **Sala Constitucional de la Corte Suprema de Justicia, res. N.º 2007-002901** de las 15:39 horas del 28 de febrero de 2007 (expediente 07-001189-0007-CO). Consulta legislativa facultativa de constitucionalidad sobre el procedimiento especial del artículo 208 bis del Reglamento de la Asamblea (tramitación del TLC/CAFTA).
 
-## Doctrina e instrucción (corpus de trabajo)
-
-- **Manual de formulación y trámite de proyectos de ley** (Vargas, 1993, y material institucional). Corpus: `data/case/procedimiento-legislativo/formulacion-y-tramite/`.
-- **Técnica legislativa** (compilación doctrinal, CIJUL y otros). Corpus: `data/case/procedimiento-legislativo/tecnica-legislativa/01-doctrina/`.
-- **Plantilla de proyecto de ley** (seis piezas). Corpus: `data/case/procedimiento-legislativo/plantilla-proyecto-ley/`.
-- **Diccionarios parlamentarios.** Corpus: `data/markdown/derecho_parlamentario_referencia_tramite_proyectos/`.
-
-## Referencias doctrinales citadas por el corpus
+## Doctrina y obras citadas
 
 - Meehan, José Héctor. *Teoría y Técnica Legislativas*. Buenos Aires, Editorial Depalma, 1976.
-- Hernández Valle, Rubén. *El Derecho de la Constitución*.
-- Mención a las Cortes Españolas y al Congreso de los Estados Unidos en materia de consultas y estudios especiales.
+- Hernández Valle, Rubén. *El Derecho de la Constitución*. 1.ª ed. San José, Editorial Juricentro, 1994.
+- Hernández Valle, Rubén. *Derecho Parlamentario Costarricense*. San José, Investigaciones Jurídicas.
+- Alvarado Villalobos, C.; Fernández Masís, H.; Vargas Vargas, F. *Metodología de la producción normativa primaria*. San José, 1988.
+- Vargas Bonilla, Ismael. *Lecciones de derecho constitucional costarricense*. San José, Departamento de Publicaciones de la UCR, 1957.
+- Ramírez Altamirano, Marina. *Manual de Procedimientos Legislativos*. 1.ª ed. San José, Editorial Investigaciones Jurídicas, 1994.
+- Ramírez Altamirano, Marina. «Técnicas de investigación legislativa», en *Revista Parlamentaria*, vol. 7, n.º 1. San José, Asamblea Legislativa, abril de 1999.
+- Solano Rojas, Wilbert Ezequiel. *Técnica y Metódica Legislativa costarricense*. San José, Asamblea Legislativa, 1994.
+- Valverde Acosta, Carmen María. *El lenguaje de la ley*. 1.ª ed. San José, Asamblea Legislativa, 1998.
+- Muñoz Quesada, Hugo. *Elementos de técnica legislativa*. 1.ª ed. San José, Asamblea Legislativa, Centro para la Democracia, 1996.
+- Ross Araya, Jorge. *La Delegación Legislativa*. Tesis de licenciatura en Derecho, Universidad de Costa Rica, 1985.
+- Vargas Vargas, Ronulfo. *Manual de formulación y trámite de proyectos de ley*. San José, Asamblea Legislativa, 1993.
 
 ## Nota de método
 
-Las guías, diccionarios y manuales son referencia institucional o técnica; no sustituyen la Constitución ni el Reglamento cuando se requiere una regla normativa vinculante. Donde el corpus presentó cifras en conflicto (p. ej., sobre caducidad), esta obra adoptó el texto vigente del RAL (art. 119, reforma de 2022) y lo indica. Los capítulos de la Parte IV (anatomía crítica) son razonamiento analítico construido sobre los hechos jurídicos verificados, no hechos empíricos adicionales.
-
----
-
-**Fuente del capítulo.** Índice consolidado de fuentes del corpus `data/case/procedimiento-legislativo/` y de las ramas normativas `data/markdown/derecho_constitucional/` y `derecho_parlamentario_reglamento_asamblea_legislativa/`.
+La doctrina y los manuales son referencia técnica e interpretativa; no sustituyen la Constitución ni el Reglamento cuando se requiere una regla normativa vinculante. Donde la bibliografía presentó cifras en conflicto (por ejemplo, sobre caducidad), esta obra adoptó el texto vigente del Reglamento (art. 119, reforma de 2022) y lo indica. Los capítulos de la Parte IV (anatomía crítica) son razonamiento analítico construido sobre los hechos jurídicos verificados, no hechos empíricos adicionales.

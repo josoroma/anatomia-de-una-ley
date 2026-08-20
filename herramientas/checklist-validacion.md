@@ -73,5 +73,3 @@ Validación sustantiva y formal del proyecto **antes** de la presentación. Una 
 - **Listo para presentar:** todos los ítems aplicables en «Sí»; observaciones documentadas.
 - **Requiere ajustes menores:** ítems «Revisar» documentados con plan de corrección.
 - **No está listo:** ítems «No» sin justificación suficiente. Devolver a redacción.
-
-**Fuente.** Corpus `plantilla-proyecto-ley/05-checklist-validacion.md`. Normativa: CP arts. 1-194; Convención Americana.

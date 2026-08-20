@@ -28,5 +28,3 @@ hecho jurídico → funcionamiento institucional → incentivos y efectos → an
 ```
 
 No saltar del hecho jurídico al juicio normativo sin atravesar el funcionamiento, los incentivos y el análisis.
-
-**Fuente.** Síntesis de la lente analítica de esta obra (Partes I y IV del manual).

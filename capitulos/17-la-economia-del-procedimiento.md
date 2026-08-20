@@ -42,7 +42,3 @@ Leído como sistema de incentivos, el procedimiento costarricense produce un res
 ## Juicio normativo
 
 Si se quiere cambiar el resultado, hay que cambiar los incentivos: abaratar la información (servicios técnicos fuertes y públicos), encarecer la prisa (fundamentación de toda dispensa), simetrizar los costos (publicidad radical del expediente) y obligar al cálculo (estimación de efectos como requisito de admisión). Las reformas de procedimiento son, en el fondo, reformas de precios: cambian lo que cuesta cada conducta y, con ello, lo que el sistema produce.
-
----
-
-**Fuente del capítulo.** Síntesis analítica de los capítulos 4, 6, 9 y 13 de esta obra, construida sobre el corpus `data/case/procedimiento-legislativo/`.

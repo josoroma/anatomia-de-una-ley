@@ -2,7 +2,7 @@
 
 ## Manual crítico del procedimiento legislativo costarricense
 
-> Obra unificada generada automáticamente desde `capitulos/`. Cada capítulo conserva sus fuentes. La versión de lectura enriquecida es `web/index.html`.
+> Obra unificada generada automáticamente desde `capitulos/`. Versión de lectura enriquecida: `web/index.html`.
 
 ---
 
@@ -97,12 +97,12 @@
 
 ## Sobre esta obra
 
-Este manual reconstruye, reorganiza y sintetiza el corpus documental del procedimiento legislativo costarricense que vive en `data/case/procedimiento-legislativo/`. No es un resumen de documentos existentes, sino una obra editorial nueva: una anatomía completa del camino que recorre una iniciativa desde que es idea hasta que se publica en La Gaceta y adquiere fuerza obligatoria.
+Este manual reconstruye y sintetiza, en una sola obra editorial, el camino completo que recorre una iniciativa: desde que es idea hasta que se publica en La Gaceta y adquiere fuerza obligatoria. No es un resumen de documentos existentes, sino una anatomía nueva y razonada del procedimiento legislativo costarricense.
 
-La fuente normativa primaria de este trabajo es la Constitución Política (arts. 105, 121, 123 a 127, 129, 195 y 196) y el Reglamento de la Asamblea Legislativa; la fuente doctrinal, jurisprudencial y de técnica legislativa es el corpus local. Toda afirmación jurídica sustantiva que aquí se hace remite a un archivo del corpus o a un artículo constitucional, y se cita de forma verificable.
+La base normativa de esta obra es la Constitución Política (arts. 105, 121, 123 a 129, 195 y 196), el Reglamento de la Asamblea Legislativa y la Ley de la Jurisdicción Constitucional; la doctrina y la jurisprudencia citadas provienen de autores y decisiones identificables, referenciados en el capítulo final. Toda afirmación jurídica sustantiva remite a un precepto o a una resolución verificable.
 
 > [!advertencia]
-> **Alcance y límite.** Este manual es una herramienta de estudio y de trabajo profesional. No sustituye el criterio del abogado responsable ni releva de verificar el texto vigente de cada norma en el Diario Oficial antes de actuar. Los plazos, quórums y procedimientos aquí descritos corresponden al estado del ordenamiento al momento de la compilación del corpus; toda reforma posterior prevalece.
+> **Alcance y límite.** Este manual es una herramienta de estudio y de trabajo profesional. No sustituye el criterio del abogado responsable ni releva de verificar el texto vigente de cada norma en el Diario Oficial antes de actuar. Los plazos, quórums y procedimientos aquí descritos corresponden al estado del ordenamiento al momento de redacción de esta obra; toda reforma posterior prevalece.
 
 ## El método: una separación de cinco capas
 
@@ -148,10 +148,6 @@ Cada capítulo es autónomo y puede leerse en cualquier orden; las remisiones in
 ## Una nota sobre el título
 
 Se llama *Anatomía* porque la intención es la de una disección: abrir el procedimiento legislativo, capa por capa, para ver qué hay debajo del lenguaje solemne. Toda ley tiene una biografía —una serie de decisiones, acuerdos y silencios— que determina, en buena medida, si la norma servirá a las personas o a los intereses de quienes estuvieron mejor situados durante su gestación. Este manual cuenta esa biografía.
-
----
-
-**Fuente del capítulo.** Corpus local `data/case/procedimiento-legislativo/` (formulación y trámite, técnica legislativa, jurisprudencia y plantilla). Normativa: CP arts. 105, 121, 123–127, 129, 195–196.
 
 
 
@@ -205,10 +201,6 @@ Pero la práctica legislativa erosiona ese diseño de tres maneras recurrentes: 
 
 Si se quiere que la ley sea el resultado de una deliberación genuina y no de una negociación opaca, el diseño institucional debe priorizar: publicidad efectiva del trámite (acceso anticipado a los textos), tiempo real de estudio, derechos de enmienda efectivos para las minorías y mecanismos que desincentiven la aprobación de normas cuyos efectos nadie ha estimado. La pregunta rectora no es "¿quién ganó la votación?", sino "¿qué información y qué contrapesos hubo antes de que se votara?".
 
----
-
-**Fuente del capítulo.** CP arts. 105, 121, 124. Corpus: `formulacion-y-tramite/04-i-asamblea-legislativa-y-sus-funciones.md`; `tecnica-legislativa/01-doctrina/03-funcion-legislativa-de-la-asamblea.md`.
-
 
 
 
@@ -260,10 +252,6 @@ Ese sesgo no es neutro. Determina qué problemas se legislan y cuáles se ignora
 
 Una agenda legislativa más representativa exige reducir el costo de entrada de quienes no tienen aparato: servicios técnicos robustos e independientes, acceso público anticipado a los borradores, y transparencia radical sobre quién redactó y financió cada iniciativa. La iniciativa popular, aunque imperfecta, es el mecanismo que más se acerca a devolver al soberano la llave de entrada; su extensión prudente y su regulación honesta merecen más atención de la que reciben.
 
----
-
-**Fuente del capítulo.** CP arts. 123, 105, 195. Corpus: `tecnica-legislativa/01-doctrina/05-formacion-de-las-leyes.md`; `tecnica-legislativa/01-doctrina/17-presentacion-proyecto-asamblea-legislativa.md`; `formulacion-y-tramite/05-ii-clases-y-tipos-de-proyectos.md`.
-
 
 
 
@@ -311,10 +299,6 @@ El diseño debería forzar que el poder de la comisión rinda cuentas al Plenari
 
 Una comisión bien diseñada es deliberativa y porosa: publica su agenda, fundamenta sus decisiones, admite la enmienda de las minorías y deja constancia de quién la asesoró. Una comisión mal diseñada es un cuello de botella capturable. La diferencia está en reglas concretas —plazos, publicidad, fundamentación, admisión de mociones— y no en la retórica de la "representación".
 
----
-
-**Fuente del capítulo.** CP arts. 124, 121 incisos 23. Corpus: `tecnica-legislativa/01-doctrina/05-formacion-de-las-leyes.md`; `tecnica-legislativa/01-doctrina/04-funcion-comisiones-formacion-leyes.md`; `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md`.
-
 
 
 
@@ -329,7 +313,7 @@ Una comisión bien diseñada es deliberativa y porosa: publica su agenda, fundam
 
 El Parlamento costarricense dispone de estructuras de apoyo técnico que producen la información con la que se legisla: el **Departamento de Servicios Técnicos**, la investigación legislativa y los servicios de asesoría parlamentaria. Estas unidades elaboran informes sobre los proyectos en trámite, redactan dictámenes técnicos, sistematizan las enmiendas y asisten a diputados y comisiones.
 
-El ciclo documental de un proyecto —numeración, anotación en el expediente, publicación, autos de presentación, informes— es administrado por estas estructuras. La doctrina compilada describe con detalle estas áreas: la preparación de proyectos, la investigación parlamentaria, los informes de proyectos en trámite y el estudio de los servicios técnicos (corpus `01-doctrina`, archivos 13 a 22).
+El ciclo documental de un proyecto —numeración, anotación en el expediente, publicación, autos de presentación, informes— es administrado por estas estructuras. La doctrina describe con detalle estas áreas: la preparación de proyectos, la investigación parlamentaria, los informes de proyectos en trámite y el estudio de los servicios técnicos.
 
 > [!concepto]
 > **La información es el insumo del legislador.** El legislador no legisla sobre la realidad, sino sobre su *representación* de la realidad: datos, diagnósticos, proyecciones, opiniones técnicas. Quien controla esa representación —qué datos se producen, cuáles se omiten, con qué marco— controla, en gran medida, la decisión. Por eso el estudio de los servicios técnicos es el estudio del suministro de información al poder.
@@ -358,10 +342,6 @@ El punto de quiebre del procedimiento costarricense no está en la redacción de
 
 La regla práctica que se propone en esta obra es simple: **ningún proyecto debería avanzar a debate sin un informe técnico que declare, al menos, el problema que pretende resolver, los efectos esperados, los costos, los beneficiarios y las alternativas descartadas.** Lo demás —comisiones, mociones, votaciones— es ceremonia si la información que alimenta la decisión es débil.
 
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/13-investigacion-legislativa-asesoria-parlamentaria.md`, `14-areas-investigacion-parlamento.md`, `15-informes-proyectos-tramite-enmiendas.md`, `16-consultas-estudios-especiales.md`, `22-estudio-servicios-tecnicos.md`.
-
 
 
 
@@ -374,7 +354,7 @@ La regla práctica que se propone en esta obra es simple: **ningún proyecto deb
 
 ## El hecho jurídico
 
-La doctrina y el corpus distinguen varias clases de actos legislativos:
+La doctrina distingue varias clases de actos legislativos:
 
 1. **Proyectos de ley.** Normas generales, abstractas y de aplicación a futuro, que innovan el ordenamiento. Son el paradigma del acto legislativo y requieren el trámite completo.
 2. **Acuerdos legislativos.** Decisiones concretas, sin vocación de generalidad, que no tienen carácter de ley y que se votan en una sola sesión. El artículo 124 constitucional enumera expresamente cuáles actos son acuerdos: los de los incisos 2), 3), 5), 6), 7), 8), 9), 10), 12), 16), 21), 22), 23) y 24) del artículo 121, así como el acto legislativo para convocar a referéndum.
@@ -403,10 +383,6 @@ La lección estructural es que **toda vía rápida es un subsidio a quien está 
 
 La clasificación de los actos legislativos es la primera decisión del procedimiento y una de las más cargadas de consecuencias. Corresponde exigir que la naturaleza del acto se declare expresamente en el expediente, que se fundamente por qué no es ley cuando produce efectos generales, y que cualquier desviación sea impugnable. El ordenamiento ya ofrece la herramienta —el control de constitucionalidad del procedimiento—; falta el hábito de usarla en esta frontera temprana.
 
----
-
-**Fuente del capítulo.** CP arts. 124, 121, 195–196. Corpus: `formulacion-y-tramite/05-ii-clases-y-tipos-de-proyectos.md`; `tecnica-legislativa/01-doctrina/01-acto-legislativo-y-la-ley.md`, `02-definicion-del-acto-legislativo.md`, `07-diversos-nombres-que-se-les-dan.md`.
-
 
 
 
@@ -428,7 +404,7 @@ La doctrina distingue con nitidez dos clases de requisitos que se cumplirán a l
 
 ## Cómo funciona
 
-La presentación sigue un ciclo documental preciso, documentado en el corpus:
+La presentación sigue un ciclo documental preciso:
 
 1. **Registro y numeración.** El proyecto recibe número de expediente, que lo identifica de ahí en adelante.
 2. **Publicación y anotación.** Se publica el texto y se anota en los registros de la Asamblea.
@@ -452,10 +428,6 @@ El efecto estructural es sutil: la exigencia de forma, sin apoyo técnico accesi
 La presentación debería ser el momento donde se declara, junto al texto, la información mínima de justificación: problema, fines, medios, efectos esperados, costos, beneficiarios, alternativas. Hoy esa exigencia no existe con la fuerza debida, y su ausencia explica por qué tantos proyectos llegan al debate sin que nadie haya estimado qué harán.
 
 Fortalecer la presentación —exigir un expediente técnico mínimo y publicarlo íntegro— es la reforma más barata y de mayor rendimiento que puede hacerse al procedimiento. No toca quórums ni debates; solo obliga a que la información exista antes de decidir.
-
----
-
-**Fuente del capítulo.** CP art. 124. Corpus: `tecnica-legislativa/01-doctrina/09-requisitos-formales.md`, `10-caracteristicas-particulares-proyectos-ley.md`, `17-presentacion-proyecto-asamblea-legislativa.md`, `18-informe-diputados-proyectos-presentados.md`, `19-numeracion-anotacion-proyectos.md`, `20-publicacion-documentos-proyecto.md`, `21-autos-de-presentacion.md`.
 
 
 
@@ -509,10 +481,6 @@ Un trámite bien calibrado es aquel en que la velocidad es proporcional a la mad
 
 El criterio que esta obra propone es que **la compresión del trámite debe estar en razón inversa a la generalidad y el impacto de la norma**: cuanto más general y costosa sea la regla, más deliberación exige; cuanto más concreta y reversible, menos. Ese criterio, aplicado con honestidad, resuelve la mayoría de las disputas sobre "urgencia".
 
----
-
-**Fuente del capítulo.** CP arts. 124, 129. Corpus: `formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md`; `tecnica-legislativa/01-doctrina/10-tramite-legislativo.md`, `05-formacion-de-las-leyes.md`.
-
 
 
 
@@ -525,7 +493,7 @@ El criterio que esta obra propone es que **la compresión del trámite debe esta
 
 ## El hecho jurídico
 
-El corpus distingue tres clases de mociones, según su objeto:
+Se distinguen tres clases de mociones, según su objeto:
 
 1. **Mociones de fondo.** Alteran el contenido del texto: modifican, agregan o suprimen disposiciones. Son el corazón de la deliberación.
 2. **Mociones de orden.** Alteran el procedimiento: el orden del día, los plazos, el trámite. No tocan el texto, pero tocan el ritmo y, con él, el resultado.
@@ -562,10 +530,6 @@ Quien controla la admisión de mociones obtiene un poder enorme: puede filtrar q
 Un procedimiento que respeta la enmienda exige, como mínimo: admisión generosa de las mociones de fondo, fundamentación de toda inadmisión, prohibición del rechazo en bloque sin debate, y recursos efectivos contra las decisiones de presidencia. Sin esas garantías, el derecho de enmienda existe en el papel y desaparece en la práctica.
 
 La regla de oro que esta obra propone: **toda inadmisión de una moción de fondo debe ser motivada por escrito y ser recurrible.** Si la inadmisión no puede motivarse, probablemente no debió producirse.
-
----
-
-**Fuente del capítulo.** CP art. 124. Corpus: `formulacion-y-tramite/07-iv-tramites-modificatorios-del-proyecto.md`; `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md` (Sala IV, res. 2007-002901).
 
 
 
@@ -615,10 +579,6 @@ La caducidad, por su parte, es un arma de doble filo. Por un lado, limpia el sis
 
 La regla que esta obra propone es de simetría: **toda compresión del tiempo (dispensa) y toda extinción por tiempo (caducidad) debería exigir fundamentación y publicidad.** Si la urgencia es real, puede motivarse; si el abandono es deliberado, puede declararse. Lo que no es aceptable es que el tiempo decida en silencio: ni la prisa sin motivo ni el archivo sin explicación son deliberación.
 
----
-
-**Fuente del capítulo.** RAL (caducidad, dispensa). Corpus: `tecnica-legislativa/01-doctrina/23-caducidad-de-los-asuntos.md`, `05-formacion-de-las-leyes.md`; `formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md`.
-
 
 
 
@@ -636,7 +596,7 @@ La Ley de la Jurisdicción Constitucional regula la consulta legislativa en dos 
 1. **Consulta preceptiva (obligatoria).** Para determinados proyectos —en especial, reformas constitucionales y proyectos que reformen la Ley de la Jurisdicción Constitucional— la consulta es un paso obligatorio del trámite.
 2. **Consulta facultativa.** Para otros proyectos, un número de diputados puede plantear la consulta a la Sala Constitucional.
 
-La jurisprudencia compilada en el corpus (Sala IV, resolución 2007-002901) es, ella misma, una **consulta legislativa facultativa de constitucionalidad** interpuesta por dieciséis diputados contra el trámite seguido para reformar parcialmente el Reglamento de la Asamblea (procedimiento especial del artículo 208 bis).
+La jurisprudencia de la Sala Constitucional (resolución 2007-002901) es, ella misma, una **consulta legislativa facultativa de constitucionalidad** interpuesta por dieciséis diputados contra el trámite seguido para reformar parcialmente el Reglamento de la Asamblea (procedimiento especial del artículo 208 bis).
 
 > [!norma]
 > **El objeto de la consulta.** La consulta puede versar tanto sobre el *fondo* del proyecto (¿es conforme a la Constitución?) como sobre el *procedimiento* seguido (¿se respetaron la publicidad, la enmienda y la participación?). La resolución 2007-002901 es un ejemplo de consulta sobre el procedimiento: los diputados no atacaban tanto el contenido como la forma —apresurada y poco pública— en que se tramitó.
@@ -662,10 +622,6 @@ El efecto sistémico es doble. Por un lado, disciplina: sabiendo que la Sala pue
 ## Análisis crítico y juicio normativo
 
 La consulta de constitucionalidad es una de las instituciones más valiosas del sistema costarricense y una de las menos comprendidas. Su función no es ralentizar, sino *verificar*: asegurar que la ley nazca conforme a la Constitución y a las reglas del juego democrático. Una ley bien discutida no teme la consulta; solo la teme quien tiene prisa o quien jugó sucio con el trámite.
-
----
-
-**Fuente del capítulo.** Ley de la Jurisdicción Constitucional (arts. 96–101; 81–82). Corpus: `tecnica-legislativa/01-doctrina/18-consulta-de-constitucionalidad.md`; `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md` (Sala IV, res. 2007-002901).
 
 
 
@@ -726,10 +682,6 @@ El efecto de fondo es que **el diseño favorece el acuerdo entre poderes**: ni e
 
 El cierre del ciclo —sanción, veto, publicación— es donde se verifica si el sistema de contrapesos funciona o se convierte en una negociación opaca entre poderes. La regla de oro es que **toda objeción y toda insistencia deben ser públicas y motivadas**: el veto debe explicar por qué, y la insistencia debe responder por qué desecha esas razones. Lo que se decide a puerta cerrada entre Ejecutivo y Asamblea es, al final, ley para todos; tiene derecho el público a conocer el razonamiento.
 
----
-
-**Fuente del capítulo.** CP arts. 125, 126, 127, 129. Corpus: `formulacion-y-tramite/07-iv-tramites-modificatorios-del-proyecto.md`; `tecnica-legislativa/01-doctrina/22-sancion-y-veto.md`.
-
 
 
 
@@ -772,10 +724,6 @@ La reforma constitucional es cara. Esa carestía tiene dos efectos simétricos. 
 
 La rigidez del procedimiento de reforma es una apuesta institucional: la Constitución vale más como marco estable que como documento flexible. Esa apuesta tiene mérito —protege a las minorías y a las reglas del juego de las mayorías ocasionales— pero exige vigilancia sobre las vías de elusión. La regla de oro: **si un cambio de las reglas del juego no puede hacerse por el trámite constitucional, no debe poder hacerse de facto por el reglamentario.** Donde se permite el atajo, la rigidez constitucional es una ilusión.
 
----
-
-**Fuente del capítulo.** CP arts. 195, 196, 105. Corpus: `formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md` (sección de reforma constitucional); `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md`.
-
 
 
 
@@ -788,7 +736,7 @@ La rigidez del procedimiento de reforma es una apuesta institucional: la Constit
 
 ## El hecho jurídico
 
-El corpus dedica una parte sustancial a la redacción del texto legislativo. Sus exigencias centrales son tres:
+La técnica legislativa dedica una parte sustancial a la redacción del texto. Sus exigencias centrales son tres:
 
 1. **Claridad.** El texto debe ser comprensible por su destinatario, no solo por el redactor.
 2. **Precisión.** Cada término debe tener un sentido unívoco; los conceptos jurídicos indeterminados deben usarse con cautela.
@@ -799,7 +747,7 @@ El corpus dedica una parte sustancial a la redacción del texto legislativo. Sus
 
 ## Cómo funciona: las partes del texto
 
-Un texto legislativo bien estructurado se compone, según el corpus, de partes reconocibles:
+Un texto legislativo bien estructurado se compone de partes reconocibles:
 
 - **Título.** Identifica la norma y su objeto.
 - **Exposición de motivos / considerandos.** Explica la necesidad y el fin de la norma. No es parte dispositiva, pero es la única pieza donde el legislador declara *por qué* legisla.
@@ -824,10 +772,6 @@ Por eso abundan las normas oscuras y los "marcos normativos" que en realidad son
 La regla de oro de la redacción que esta obra propone es la **prueba del tercero lego**: una norma está bien escrita cuando una persona razonable, sin acceso al redactor, puede saber qué conducta exige, qué prohíbe y qué consecuencia trae. Si la norma no supera esa prueba, la falla no es del lector, sino del redactor.
 
 La claridad no es una preferencia estética: es la condición de la libertad. Donde la ley es oscura, el ciudadano depende del permiso o de la interpretación de un tercero; donde es clara, puede actuar con seguridad y exigir que el poder se ciña al texto. Técnica legislativa es, en última instancia, técnica de libertad.
-
----
-
-**Fuente del capítulo.** Corpus: `formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md`; `tecnica-legislativa/01-doctrina/24-tecnica-juridica-redaccion-leyes.md`, `26-lenguaje-juridico-redaccion-leyes.md`.
 
 
 
@@ -854,7 +798,7 @@ Cada clase exige una arquitectura distinta. El proyecto modificativo debe identi
 
 ## Cómo funciona: jerarquía y numeración
 
-El texto legislativo costarricense usa una jerarquía reconocible, documentada en el corpus:
+El texto legislativo costarricense usa una jerarquía reconocible:
 
 - **Artículos**, numerados correlativamente.
 - **Incisos**, que dividen el artículo (numerales 1), 2), 3)...).
@@ -878,10 +822,6 @@ La estructura lógica rigurosa es el antídoto: obliga a que las decisiones est�
 ## Análisis crítico y juicio normativo
 
 La estructura lógica es la columna vertebral de la técnica legislativa: sin ella, la claridad del capítulo anterior es imposible, porque un texto claro pero desordenado sigue siendo un texto que se contradice. La regla de oro es la **coherencia verificable**: cada artículo debe tener una función identificable, cada remisión debe ser exacta y cada modificación debe declarar el estado completo de la norma reformada.
-
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/25-estructura-logica.md`, `11-estructura-proyecto-ley-modificativa.md`, `12-estructura-proyecto-ley-derogatoria.md`; `formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md`.
 
 
 
@@ -920,10 +860,6 @@ Para el Ejecutivo y los entes descentralizados, la delegación es poder: recibir
 
 La regla de oro es la **prueba del marco**: una delegación es legítima si la ley fija el marco —el supuesto, el fin, los límites y los criterios— y deja solo el desarrollo técnico; es ilegítima si el reglamento puede decidir lo esencial. Redactar bien es, en buena medida, saber cuándo dejar de escribir: escribir la regla en la ley, no el hueco que otro llenará.
 
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/28-delegacion-legislativa.md`, `27-otros-aspectos-formacion-leyes.md`.
-
 
 
 
@@ -936,7 +872,7 @@ La regla de oro es la **prueba del marco**: una delegación es legítima si la l
 
 ## El hecho jurídico
 
-El corpus documenta con detalle el ciclo documental del proyecto legislativo, en piezas distintas:
+La doctrina documenta con detalle el ciclo documental del proyecto legislativo, en piezas distintas:
 
 1. **Numeración y anotación.** El proyecto recibe número de expediente y se anota en los registros de la Asamblea. Ese número es su identidad a lo largo de todo el trámite.
 2. **Publicación en La Gaceta.** Los documentos del proyecto se publican en el Diario Oficial, como garantía de publicidad.
@@ -965,10 +901,6 @@ La publicidad en La Gaceta y la integridad de las actas son los correctivos. Per
 ## Análisis crítico y juicio normativo
 
 El expediente es la infraestructura de la rendición de cuentas legislativa. Un sistema que registra todo, publica todo y motiva todo, es un sistema donde el poder se ejerce a la vista; un sistema que registra poco, publica tarde y motiva menos, es un sistema donde el poder se ejerce en la penumbra. La técnica documental no es burocracia: es la materialización del principio democrático de publicidad.
-
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/19-numeracion-anotacion-proyectos.md`, `20-publicacion-documentos-proyecto.md`, `21-autos-de-presentacion.md`, `13-actas-sesiones-plenarias.md`, `11-publicacion-en-la-gaceta.md`.
 
 
 
@@ -1011,10 +943,6 @@ Leído como sistema de incentivos, el procedimiento costarricense produce un res
 ## Juicio normativo
 
 Si se quiere cambiar el resultado, hay que cambiar los incentivos: abaratar la información (servicios técnicos fuertes y públicos), encarecer la prisa (fundamentación de toda dispensa), simetrizar los costos (publicidad radical del expediente) y obligar al cálculo (estimación de efectos como requisito de admisión). Las reformas de procedimiento son, en el fondo, reformas de precios: cambian lo que cuesta cada conducta y, con ello, lo que el sistema produce.
-
----
-
-**Fuente del capítulo.** Síntesis analítica de los capítulos 4, 6, 9 y 13 de esta obra, construida sobre el corpus `data/case/procedimiento-legislativo/`.
 
 
 
@@ -1062,10 +990,6 @@ Concentración, captura y barreras de entrada se refuerzan mutuamente. La concen
 ## Juicio normativo
 
 Los correctivos son los opuestos del ciclo: **dispersar** el poder de decisión (admisión generosa de enmiendas, control efectivo del Plenario), **publicitar** la autoría y la información (expediente íntegro, transparencia de quién redactó), y **bajar** las barreras (servicios técnicos accesibles, iniciativa popular practicable). La salud del procedimiento se mide por cuán amplio es el círculo de quienes pueden, con esfuerzo razonable, influir en la ley.
-
----
-
-**Fuente del capítulo.** Síntesis analítica de los capítulos 1–4, 8 y 12, construida sobre el corpus `data/case/procedimiento-legislativo/` y la resolución Sala IV 2007-002901.
 
 
 
@@ -1118,10 +1042,6 @@ La defensa frente a las consecuencias no intencionadas no es una regla de redacc
 
 La humildad epistémica no es un adorno retórico: es la única posición coherente con el hecho de que el legislador no puede saber todo lo que sus destinatarios saben.
 
----
-
-**Fuente del capítulo.** Razonamiento construido sobre CP art. 129 (obligatoriedad y derogación) y la técnica legislativa del corpus. Corpus: `tecnica-legislativa/01-doctrina/24-tecnica-juridica-redaccion-leyes.md`, `25-estructura-logica.md`, `26-lenguaje-juridico-redaccion-leyes.md`; `formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md`.
-
 
 
 
@@ -1172,10 +1092,6 @@ La lección normativa de la sentencia 2007-002901 puede resumirse en una regla: 
 
 El control jurisdiccional del procedimiento es, en última instancia, la garantía de que el poder de legislar —el poder más amplio del Estado— se ejerce a través de una deliberación que merece ese nombre.
 
----
-
-**Fuente del capítulo.** Sala Constitucional, res. N.º 2007-002901 de las 15:39 horas del 28/02/2007 (exp. 07-001189-0007-CO). Corpus: `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md`; CP arts. 121 inc. 22, 7; Ley de la Jurisdicción Constitucional, arts. 81-82.
-
 
 
 
@@ -1201,7 +1117,7 @@ Cada variable es un eje con dos polos: concentración frente a dispersión del p
 
 ## Cómo funciona: los ejes de tensión
 
-La literatura que el propio corpus cita —Meehan, desde la experiencia argentina, y las referencias al Parlamento español y al Congreso de los Estados Unidos en materia de consultas y estudios especiales— apunta a una tensión universal: **cuántos filtros de revisión interponer entre la idea y la ley, y cuánta deliberación puede pagar un sistema antes de paralizarse.**
+La literatura comparada —Meehan, desde la experiencia argentina, y las referencias al Parlamento español y al Congreso de los Estados Unidos en materia de consultas y estudios especiales— apunta a una tensión universal: **cuántos filtros de revisión interponer entre la idea y la ley, y cuánta deliberación puede pagar un sistema antes de paralizarse.**
 
 > [!concepto]
 > **Filtros y costos.** Cada cámara adicional, cada debate adicional, cada consulta obligatoria es un filtro que encarece la ley y protege contra el error —pero también encarece el cambio legítimo. Un sistema sin filtros legisla rápido y mal; un sistema con demasiados filtros no legisla. El diseño es, en el fondo, una apuesta sobre cuál error es más costoso: el exceso de ley o la escasez de ley.
@@ -1226,10 +1142,6 @@ La lectura comparada devuelve al lector una pregunta para Costa Rica: dado que e
 
 La variable que ningún diseño puede eludir es la que recorre todo este manual: **quien decide debe responder de lo que decide, y solo puede responder si el procedimiento lo obliga a explicarse en público.**
 
----
-
-**Fuente del capítulo.** CP arts. 105, 106, 123, 124. Referencias comparadas presentes en el corpus: Meehan (Argentina) y menciones a las Cortes Españolas y al Congreso de los EE. UU. en materia de consultas y estudios especiales. Corpus: `tecnica-legislativa/01-doctrina/16-consultas-estudios-especiales.md`, `03-fuentes.md`, `28-delegacion-legislativa.md`.
-
 
 
 
@@ -1238,7 +1150,7 @@ La variable que ningún diseño puede eludir es la que recorre todo este manual:
 # Plantilla integral de proyecto de ley
 
 > [!concepto]
-> **Del análisis a la redacción.** Esta plantilla reúne los componentes que exigen el Reglamento de la Asamblea y la práctica parlamentaria, y los que impone la buena técnica legislativa. Cada pieza está anclada en el corpus. La versión editable completa vive en `herramientas/plantilla-proyecto-ley.md`.
+> **Del análisis a la redacción.** Esta plantilla reúne los componentes que exigen el Reglamento de la Asamblea y la práctica parlamentaria, y los que impone la buena técnica legislativa. La versión editable completa se encuentra en `herramientas/plantilla-proyecto-ley.md`.
 
 ## 1. Portada
 
@@ -1315,10 +1227,6 @@ Reglas: redacción doctrinal y técnica, no panfletaria; «breve pero exacta» s
 > [!advertencia]
 > **Una sola materia.** Cada proyecto debe tratar una sola materia. La acumulación de reformas heterogéneas dificulta el debate, diluye la responsabilidad y puede provocar vicios de procedimiento. Las reformas a distintas leyes solo son admisibles si son conexas con la materia principal.
 
----
-
-**Fuente del capítulo.** Corpus: `plantilla-proyecto-ley/01-portada-y-exposicion-motivos.md`, `02-parte-dispositiva.md`, `03-disposiciones-finales.md`; `tecnica-legislativa/01-doctrina/09-requisitos-formales.md`, `25-estructura-logica.md`. Normativa: CP arts. 124, 129, 140 inc. 3; RAL art. 113.
-
 
 
 
@@ -1371,10 +1279,6 @@ Reglas: redacción doctrinal y técnica, no panfletaria; «breve pero exacta» s
 > 10. **¿Existe una alternativa menos coercitiva, más voluntaria o descentralizada?** ¿Se agotó antes de legislar?
 
 Si la respuesta a estas preguntas no puede escribirse en la exposición de motivos, el proyecto no está listo: está, en el mejor de los casos, a medio pensar.
-
----
-
-**Fuente del capítulo.** Corpus: `plantilla-proyecto-ley/04-checklist-presentacion.md`, `05-checklist-validacion.md`. El checklist crítico (C) es la síntesis de la lente analítica de esta obra (Partes I y IV).
 
 
 
@@ -1440,10 +1344,6 @@ Si la respuesta a estas preguntas no puede escribirse en la exposición de motiv
 
 **Vigencia.** Momento desde el cual la ley obliga: el que ella designe o, en su defecto, diez días después de su publicación (CP art. 129).
 
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/` (glosario y definiciones); `formulacion-y-tramite/`; `derecho_parlamentario_referencia_tramite_proyectos/` (diccionarios parlamentarios). Normativa: CP arts. 105, 123-129, 195-196; RAL; Ley de la Jurisdicción Constitucional.
-
 
 
 
@@ -1452,40 +1352,36 @@ Si la respuesta a estas preguntas no puede escribirse en la exposición de motiv
 # Fuentes y referencias
 
 > [!concepto]
-> **Rastreabilidad.** Cada afirmación normativa de esta obra se apoya en una fuente del corpus. Esta sección las ordena para verificación y consulta. Las citas literales conservan el texto fuente.
+> **Rastreabilidad.** Cada afirmación normativa de esta obra remite a un precepto constitucional o reglamentario, a una resolución jurisprudencial o a una obra doctrinal identificable, listada aquí para verificación y consulta. Las citas literales conservan el texto original.
 
-## Normativa (autoridad vinculante)
+## Normativa
 
-- **Constitución Política de la República de Costa Rica.** En especial: art. 105 (potestad de legislar y referéndum), art. 121 (atribuciones de la Asamblea), art. 123 (iniciativa), art. 124 (formación de la ley y delegación), arts. 125-128 (sanción, veto, resello, veto por inconstitucionalidad), art. 129 (obligatoriedad, publicación, derogación), art. 140 inc. 3 (iniciativa ejecutiva), arts. 195-196 (reforma parcial y general).
-  - Corpus: `data/markdown/derecho_constitucional/article_0105.md` y `article_0121.md` a `article_0129.md`, `article_0195.md`, `article_0196.md`.
-- **Reglamento de la Asamblea Legislativa (RAL).** En especial: art. 19 (orden del día), art. 34 (informe y Gaceta), arts. 72-73 (comisiones con potestad legislativa plena), arts. 81-82 (mociones y dictamen), art. 113 (presentación), art. 119 (caducidad, reformado en 2022), arts. 146, 207-208 (consultas y veto).
-  - Corpus: `data/markdown/derecho_parlamentario_reglamento_asamblea_legislativa/article_*.md`.
-- **Ley de la Jurisdicción Constitucional.** En especial arts. 81-82 (consultas) y el régimen de control de constitucionalidad.
+- **Constitución Política de la República de Costa Rica.** En especial: art. 105 (potestad de legislar y referéndum), art. 121 (atribuciones de la Asamblea), art. 123 (iniciativa), art. 124 (formación de la ley y delegación), arts. 125-128 (sanción, veto, resello, veto por inconstitucionalidad), art. 129 (obligatoriedad, publicación, derogación), art. 140 inc. 3 (iniciativa ejecutiva) y arts. 195-196 (reforma parcial y general).
+- **Reglamento de la Asamblea Legislativa.** En especial: art. 19 (orden del día), art. 34 (informe y publicación en La Gaceta), arts. 72-73 (comisiones con potestad legislativa plena), arts. 81-82 (mociones y dictamen), art. 113 (presentación), art. 119 (caducidad, reformado en 2022), y arts. 146, 207-208 (consultas y veto).
+- **Ley de la Jurisdicción Constitucional.** En especial arts. 81-82 (consultas legislativas de constitucionalidad) y el régimen de control de constitucionalidad.
 - **Código Civil, art. 6** (regla supletoria de vigencia).
 
 ## Jurisprudencia
 
-- **Sala Constitucional, res. N.º 2007-002901** de las 15:39 horas del 28 de febrero de 2007, expediente 07-001189-0007-CO. Consulta legislativa facultativa de constitucionalidad sobre el procedimiento especial del artículo 208 bis del Reglamento (TLC/CAFTA). Corpus: `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md`.
+- **Sala Constitucional de la Corte Suprema de Justicia, res. N.º 2007-002901** de las 15:39 horas del 28 de febrero de 2007 (expediente 07-001189-0007-CO). Consulta legislativa facultativa de constitucionalidad sobre el procedimiento especial del artículo 208 bis del Reglamento de la Asamblea (tramitación del TLC/CAFTA).
 
-## Doctrina e instrucción (corpus de trabajo)
-
-- **Manual de formulación y trámite de proyectos de ley** (Vargas, 1993, y material institucional). Corpus: `data/case/procedimiento-legislativo/formulacion-y-tramite/`.
-- **Técnica legislativa** (compilación doctrinal, CIJUL y otros). Corpus: `data/case/procedimiento-legislativo/tecnica-legislativa/01-doctrina/`.
-- **Plantilla de proyecto de ley** (seis piezas). Corpus: `data/case/procedimiento-legislativo/plantilla-proyecto-ley/`.
-- **Diccionarios parlamentarios.** Corpus: `data/markdown/derecho_parlamentario_referencia_tramite_proyectos/`.
-
-## Referencias doctrinales citadas por el corpus
+## Doctrina y obras citadas
 
 - Meehan, José Héctor. *Teoría y Técnica Legislativas*. Buenos Aires, Editorial Depalma, 1976.
-- Hernández Valle, Rubén. *El Derecho de la Constitución*.
-- Mención a las Cortes Españolas y al Congreso de los Estados Unidos en materia de consultas y estudios especiales.
+- Hernández Valle, Rubén. *El Derecho de la Constitución*. 1.ª ed. San José, Editorial Juricentro, 1994.
+- Hernández Valle, Rubén. *Derecho Parlamentario Costarricense*. San José, Investigaciones Jurídicas.
+- Alvarado Villalobos, C.; Fernández Masís, H.; Vargas Vargas, F. *Metodología de la producción normativa primaria*. San José, 1988.
+- Vargas Bonilla, Ismael. *Lecciones de derecho constitucional costarricense*. San José, Departamento de Publicaciones de la UCR, 1957.
+- Ramírez Altamirano, Marina. *Manual de Procedimientos Legislativos*. 1.ª ed. San José, Editorial Investigaciones Jurídicas, 1994.
+- Ramírez Altamirano, Marina. «Técnicas de investigación legislativa», en *Revista Parlamentaria*, vol. 7, n.º 1. San José, Asamblea Legislativa, abril de 1999.
+- Solano Rojas, Wilbert Ezequiel. *Técnica y Metódica Legislativa costarricense*. San José, Asamblea Legislativa, 1994.
+- Valverde Acosta, Carmen María. *El lenguaje de la ley*. 1.ª ed. San José, Asamblea Legislativa, 1998.
+- Muñoz Quesada, Hugo. *Elementos de técnica legislativa*. 1.ª ed. San José, Asamblea Legislativa, Centro para la Democracia, 1996.
+- Ross Araya, Jorge. *La Delegación Legislativa*. Tesis de licenciatura en Derecho, Universidad de Costa Rica, 1985.
+- Vargas Vargas, Ronulfo. *Manual de formulación y trámite de proyectos de ley*. San José, Asamblea Legislativa, 1993.
 
 ## Nota de método
 
-Las guías, diccionarios y manuales son referencia institucional o técnica; no sustituyen la Constitución ni el Reglamento cuando se requiere una regla normativa vinculante. Donde el corpus presentó cifras en conflicto (p. ej., sobre caducidad), esta obra adoptó el texto vigente del RAL (art. 119, reforma de 2022) y lo indica. Los capítulos de la Parte IV (anatomía crítica) son razonamiento analítico construido sobre los hechos jurídicos verificados, no hechos empíricos adicionales.
-
----
-
-**Fuente del capítulo.** Índice consolidado de fuentes del corpus `data/case/procedimiento-legislativo/` y de las ramas normativas `data/markdown/derecho_constitucional/` y `derecho_parlamentario_reglamento_asamblea_legislativa/`.
+La doctrina y los manuales son referencia técnica e interpretativa; no sustituyen la Constitución ni el Reglamento cuando se requiere una regla normativa vinculante. Donde la bibliografía presentó cifras en conflicto (por ejemplo, sobre caducidad), esta obra adoptó el texto vigente del Reglamento (art. 119, reforma de 2022) y lo indica. Los capítulos de la Parte IV (anatomía crítica) son razonamiento analítico construido sobre los hechos jurídicos verificados, no hechos empíricos adicionales.
 
 

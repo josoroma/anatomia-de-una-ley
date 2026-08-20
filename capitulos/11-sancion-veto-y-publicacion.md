@@ -59,7 +59,3 @@ El efecto de fondo es que **el diseño favorece el acuerdo entre poderes**: ni e
 ## Análisis crítico y juicio normativo
 
 El cierre del ciclo —sanción, veto, publicación— es donde se verifica si el sistema de contrapesos funciona o se convierte en una negociación opaca entre poderes. La regla de oro es que **toda objeción y toda insistencia deben ser públicas y motivadas**: el veto debe explicar por qué, y la insistencia debe responder por qué desecha esas razones. Lo que se decide a puerta cerrada entre Ejecutivo y Asamblea es, al final, ley para todos; tiene derecho el público a conocer el razonamiento.
-
----
-
-**Fuente del capítulo.** CP arts. 125, 126, 127, 129. Corpus: `formulacion-y-tramite/07-iv-tramites-modificatorios-del-proyecto.md`; `tecnica-legislativa/01-doctrina/22-sancion-y-veto.md`.

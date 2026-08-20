@@ -232,7 +232,7 @@ def build_manual_completo(chapters):
         f"## {SUBTITULO_LIBRO}",
         "",
         "> Obra unificada generada automáticamente desde `capitulos/`. "
-        "Cada capítulo conserva sus fuentes. La versión de lectura enriquecida es `web/index.html`.",
+        "Versión de lectura enriquecida: `web/index.html`.",
         "",
         "---",
         "",

@@ -39,5 +39,3 @@ Análisis crítico y juicio normativo
 Un trámite bien calibrado es aquel en que la velocidad es proporcional a la madurez del texto: los proyectos simples avanzan sin obstáculos; los complejos maduran. El riesgo de diseño es doble: un trámite demasiado rígido convierte el Parlamento en un cuello de botella que no resuelve nada; un trámite demasiado flexible lo convierte en una imprenta que aprueba sin deliberar.
 
 El criterio que esta obra propone es que la compresión del trámite debe estar en razón inversa a la generalidad y el impacto de la norma: cuanto más general y costosa sea la regla, más deliberación exige; cuanto más concreta y reversible, menos. Ese criterio, aplicado con honestidad, resuelve la mayoría de las disputas sobre "urgencia".
-
-Fuente del capítulo. CP arts. 124, 129. Corpus: formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md; tecnica-legislativa/01-doctrina/10-tramite-legislativo.md, 05-formacion-de-las-leyes.md.

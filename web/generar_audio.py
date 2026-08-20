@@ -80,6 +80,7 @@ async def main():
         hasta = int(args[args.index("--hasta") + 1])
     if "--voz" in args:
         voz = args[args.index("--voz") + 1]
+    force = "--force" in args
 
     os.makedirs(OUT, exist_ok=True)
     archivos = sorted(glob.glob(os.path.join(PLAIN, "*.txt")))
@@ -96,7 +97,7 @@ async def main():
         if hasta is not None and num > hasta:
             continue
         archivo_mp3 = os.path.join(OUT, nombre + ".mp3")
-        if os.path.exists(archivo_mp3) and os.path.getsize(archivo_mp3) > 0:
+        if not force and os.path.exists(archivo_mp3) and os.path.getsize(archivo_mp3) > 0:
             print(f"[{i}/{total}] {nombre}  · ya existe")
             hechos += 1
             continue

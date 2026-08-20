@@ -13,7 +13,7 @@ resumen: "El derecho de enmienda como corazón del procedimiento, y las formas d
 
 ## El hecho jurídico
 
-El corpus distingue tres clases de mociones, según su objeto:
+Se distinguen tres clases de mociones, según su objeto:
 
 1. **Mociones de fondo.** Alteran el contenido del texto: modifican, agregan o suprimen disposiciones. Son el corazón de la deliberación.
 2. **Mociones de orden.** Alteran el procedimiento: el orden del día, los plazos, el trámite. No tocan el texto, pero tocan el ritmo y, con él, el resultado.
@@ -50,7 +50,3 @@ Quien controla la admisión de mociones obtiene un poder enorme: puede filtrar q
 Un procedimiento que respeta la enmienda exige, como mínimo: admisión generosa de las mociones de fondo, fundamentación de toda inadmisión, prohibición del rechazo en bloque sin debate, y recursos efectivos contra las decisiones de presidencia. Sin esas garantías, el derecho de enmienda existe en el papel y desaparece en la práctica.
 
 La regla de oro que esta obra propone: **toda inadmisión de una moción de fondo debe ser motivada por escrito y ser recurrible.** Si la inadmisión no puede motivarse, probablemente no debió producirse.
-
----
-
-**Fuente del capítulo.** CP art. 124. Corpus: `formulacion-y-tramite/07-iv-tramites-modificatorios-del-proyecto.md`; `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md` (Sala IV, res. 2007-002901).

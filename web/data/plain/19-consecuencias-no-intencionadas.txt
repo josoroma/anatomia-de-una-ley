@@ -34,5 +34,3 @@ Exigir el mapa de interacciones. Antes de aprobar, mapear qué normas toca, qué
 Publicar la prueba y el plazo de revisión. Una norma que incluye una cláusula de revisión (evaluar efectos a un plazo fijo) reconoce su propia ignorancia y se corrige a tiempo.
 
 La humildad epistémica no es un adorno retórico: es la única posición coherente con el hecho de que el legislador no puede saber todo lo que sus destinatarios saben.
-
-Fuente del capítulo. Razonamiento construido sobre CP art. 129 (obligatoriedad y derogación) y la técnica legislativa del corpus. Corpus: tecnica-legislativa/01-doctrina/24-tecnica-juridica-redaccion-leyes.md, 25-estructura-logica.md, 26-lenguaje-juridico-redaccion-leyes.md; formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md.

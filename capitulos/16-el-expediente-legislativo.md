@@ -13,7 +13,7 @@ resumen: "La memoria documental del proyecto: qué queda registrado, qué se pub
 
 ## El hecho jurídico
 
-El corpus documenta con detalle el ciclo documental del proyecto legislativo, en piezas distintas:
+La doctrina documenta con detalle el ciclo documental del proyecto legislativo, en piezas distintas:
 
 1. **Numeración y anotación.** El proyecto recibe número de expediente y se anota en los registros de la Asamblea. Ese número es su identidad a lo largo de todo el trámite.
 2. **Publicación en La Gaceta.** Los documentos del proyecto se publican en el Diario Oficial, como garantía de publicidad.
@@ -42,7 +42,3 @@ La publicidad en La Gaceta y la integridad de las actas son los correctivos. Per
 ## Análisis crítico y juicio normativo
 
 El expediente es la infraestructura de la rendición de cuentas legislativa. Un sistema que registra todo, publica todo y motiva todo, es un sistema donde el poder se ejerce a la vista; un sistema que registra poco, publica tarde y motiva menos, es un sistema donde el poder se ejerce en la penumbra. La técnica documental no es burocracia: es la materialización del principio democrático de publicidad.
-
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/19-numeracion-anotacion-proyectos.md`, `20-publicacion-documentos-proyecto.md`, `21-autos-de-presentacion.md`, `13-actas-sesiones-plenarias.md`, `11-publicacion-en-la-gaceta.md`.

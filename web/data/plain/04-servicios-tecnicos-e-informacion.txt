@@ -6,7 +6,7 @@ El hecho jurídico y el funcionamiento
 
 El Parlamento costarricense dispone de estructuras de apoyo técnico que producen la información con la que se legisla: el Departamento de Servicios Técnicos, la investigación legislativa y los servicios de asesoría parlamentaria. Estas unidades elaboran informes sobre los proyectos en trámite, redactan dictámenes técnicos, sistematizan las enmiendas y asisten a diputados y comisiones.
 
-El ciclo documental de un proyecto —numeración, anotación en el expediente, publicación, autos de presentación, informes— es administrado por estas estructuras. La doctrina compilada describe con detalle estas áreas: la preparación de proyectos, la investigación parlamentaria, los informes de proyectos en trámite y el estudio de los servicios técnicos (corpus 01-doctrina, archivos 13 a 22).
+El ciclo documental de un proyecto —numeración, anotación en el expediente, publicación, autos de presentación, informes— es administrado por estas estructuras. La doctrina describe con detalle estas áreas: la preparación de proyectos, la investigación parlamentaria, los informes de proyectos en trámite y el estudio de los servicios técnicos.
 
 Concepto: La información es el insumo del legislador. El legislador no legisla sobre la realidad, sino sobre su representación de la realidad: datos, diagnósticos, proyecciones, opiniones técnicas. Quien controla esa representación —qué datos se producen, cuáles se omiten, con qué marco— controla, en gran medida, la decisión. Por eso el estudio de los servicios técnicos es el estudio del suministro de información al poder.
 
@@ -31,5 +31,3 @@ Análisis crítico y juicio normativo
 El punto de quiebre del procedimiento costarricense no está en la redacción de las normas sino en la producción de la información que debería precederla. Fortalecer los servicios técnicos —independencia, recursos, publicación de sus informes— es más importante que perfeccionar la sintaxis de los articulados, porque un texto bien escrito fundado en datos falsos sigue siendo una mala ley.
 
 La regla práctica que se propone en esta obra es simple: ningún proyecto debería avanzar a debate sin un informe técnico que declare, al menos, el problema que pretende resolver, los efectos esperados, los costos, los beneficiarios y las alternativas descartadas. Lo demás —comisiones, mociones, votaciones— es ceremonia si la información que alimenta la decisión es débil.
-
-Fuente del capítulo. Corpus: tecnica-legislativa/01-doctrina/13-investigacion-legislativa-asesoria-parlamentaria.md, 14-areas-investigacion-parlamento.md, 15-informes-proyectos-tramite-enmiendas.md, 16-consultas-estudios-especiales.md, 22-estudio-servicios-tecnicos.md.

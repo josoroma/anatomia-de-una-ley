@@ -5,10 +5,9 @@
 **Publicado en:** <https://josoroma.github.io/anatomia-de-una-ley/>
 **Repositorio:** <https://github.com/josoroma/anatomia-de-una-ley>
 
-Obra editorial autosuficiente construida a partir del corpus
-`data/case/procedimiento-legislativo/`. Integra procedimiento legislativo,
+Obra editorial autosuficiente que integra procedimiento legislativo,
 formulación de proyectos de ley, técnica legislativa, doctrina, jurisprudencia,
-plantillas, checklists, fuentes y análisis institucional.
+plantillas, checklists y análisis institucional.
 
 ---
 
@@ -99,16 +98,16 @@ La voz por defecto es `es-MX-DaliaNeural` (español neutro de América Latina).
 
 ---
 
-## Método y fuentes
+## Método
 
 - **Hecho jurídico → funcionamiento institucional → incentivos y efectos →
   análisis crítico → juicio normativo.**
-- Toda afirmación normativa cita su fuente (Constitución Política, Reglamento
-  de la Asamblea Legislativa, jurisprudencia o el corpus de trabajo).
-- Donde el corpus presentó cifras en conflicto (p. ej., caducidad), la obra
+- Toda afirmación normativa cita su referencia (Constitución Política, Reglamento
+  de la Asamblea Legislativa, jurisprudencia u obra doctrinal identificable).
+- Donde la bibliografía presentó cifras en conflicto (p. ej., caducidad), la obra
   adoptó el texto vigente del RAL (art. 119, reforma de 2022) y lo indica.
 - La Parte IV (anatomía crítica) es razonamiento analítico construido sobre los
   hechos jurídicos verificados; no introduce hechos empíricos adicionales.
-- Las citas literales conservan el texto fuente.
+- Las citas literales conservan el texto original.
 
 El manual no sustituye el criterio profesional del abogado responsable.

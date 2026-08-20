@@ -53,7 +53,3 @@ resumen: "Tres listas para revisar un proyecto antes de presentarlo: forma, sust
 > 10. **¿Existe una alternativa menos coercitiva, más voluntaria o descentralizada?** ¿Se agotó antes de legislar?
 
 Si la respuesta a estas preguntas no puede escribirse en la exposición de motivos, el proyecto no está listo: está, en el mejor de los casos, a medio pensar.
-
----
-
-**Fuente del capítulo.** Corpus: `plantilla-proyecto-ley/04-checklist-presentacion.md`, `05-checklist-validacion.md`. El checklist crítico (C) es la síntesis de la lente analítica de esta obra (Partes I y IV).

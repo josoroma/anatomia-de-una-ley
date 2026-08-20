@@ -18,7 +18,7 @@ La Ley de la Jurisdicción Constitucional regula la consulta legislativa en dos 
 1. **Consulta preceptiva (obligatoria).** Para determinados proyectos —en especial, reformas constitucionales y proyectos que reformen la Ley de la Jurisdicción Constitucional— la consulta es un paso obligatorio del trámite.
 2. **Consulta facultativa.** Para otros proyectos, un número de diputados puede plantear la consulta a la Sala Constitucional.
 
-La jurisprudencia compilada en el corpus (Sala IV, resolución 2007-002901) es, ella misma, una **consulta legislativa facultativa de constitucionalidad** interpuesta por dieciséis diputados contra el trámite seguido para reformar parcialmente el Reglamento de la Asamblea (procedimiento especial del artículo 208 bis).
+La jurisprudencia de la Sala Constitucional (resolución 2007-002901) es, ella misma, una **consulta legislativa facultativa de constitucionalidad** interpuesta por dieciséis diputados contra el trámite seguido para reformar parcialmente el Reglamento de la Asamblea (procedimiento especial del artículo 208 bis).
 
 > [!norma]
 > **El objeto de la consulta.** La consulta puede versar tanto sobre el *fondo* del proyecto (¿es conforme a la Constitución?) como sobre el *procedimiento* seguido (¿se respetaron la publicidad, la enmienda y la participación?). La resolución 2007-002901 es un ejemplo de consulta sobre el procedimiento: los diputados no atacaban tanto el contenido como la forma —apresurada y poco pública— en que se tramitó.
@@ -44,7 +44,3 @@ El efecto sistémico es doble. Por un lado, disciplina: sabiendo que la Sala pue
 ## Análisis crítico y juicio normativo
 
 La consulta de constitucionalidad es una de las instituciones más valiosas del sistema costarricense y una de las menos comprendidas. Su función no es ralentizar, sino *verificar*: asegurar que la ley nazca conforme a la Constitución y a las reglas del juego democrático. Una ley bien discutida no teme la consulta; solo la teme quien tiene prisa o quien jugó sucio con el trámite.
-
----
-
-**Fuente del capítulo.** Ley de la Jurisdicción Constitucional (arts. 96–101; 81–82). Corpus: `tecnica-legislativa/01-doctrina/18-consulta-de-constitucionalidad.md`; `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md` (Sala IV, res. 2007-002901).

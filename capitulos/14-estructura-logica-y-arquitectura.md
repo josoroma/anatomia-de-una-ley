@@ -26,7 +26,7 @@ Cada clase exige una arquitectura distinta. El proyecto modificativo debe identi
 
 ## Cómo funciona: jerarquía y numeración
 
-El texto legislativo costarricense usa una jerarquía reconocible, documentada en el corpus:
+El texto legislativo costarricense usa una jerarquía reconocible:
 
 - **Artículos**, numerados correlativamente.
 - **Incisos**, que dividen el artículo (numerales 1), 2), 3)...).
@@ -50,7 +50,3 @@ La estructura lógica rigurosa es el antídoto: obliga a que las decisiones est�
 ## Análisis crítico y juicio normativo
 
 La estructura lógica es la columna vertebral de la técnica legislativa: sin ella, la claridad del capítulo anterior es imposible, porque un texto claro pero desordenado sigue siendo un texto que se contradice. La regla de oro es la **coherencia verificable**: cada artículo debe tener una función identificable, cada remisión debe ser exacta y cada modificación debe declarar el estado completo de la norma reformada.
-
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/25-estructura-logica.md`, `11-estructura-proyecto-ley-modificativa.md`, `12-estructura-proyecto-ley-derogatoria.md`; `formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md`.

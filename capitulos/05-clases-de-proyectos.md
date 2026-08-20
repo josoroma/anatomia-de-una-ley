@@ -13,7 +13,7 @@ resumen: "No todo lo que aprueba la Asamblea es una ley: la distinción entre le
 
 ## El hecho jurídico
 
-La doctrina y el corpus distinguen varias clases de actos legislativos:
+La doctrina distingue varias clases de actos legislativos:
 
 1. **Proyectos de ley.** Normas generales, abstractas y de aplicación a futuro, que innovan el ordenamiento. Son el paradigma del acto legislativo y requieren el trámite completo.
 2. **Acuerdos legislativos.** Decisiones concretas, sin vocación de generalidad, que no tienen carácter de ley y que se votan en una sola sesión. El artículo 124 constitucional enumera expresamente cuáles actos son acuerdos: los de los incisos 2), 3), 5), 6), 7), 8), 9), 10), 12), 16), 21), 22), 23) y 24) del artículo 121, así como el acto legislativo para convocar a referéndum.
@@ -41,7 +41,3 @@ La lección estructural es que **toda vía rápida es un subsidio a quien está 
 ## Análisis crítico y juicio normativo
 
 La clasificación de los actos legislativos es la primera decisión del procedimiento y una de las más cargadas de consecuencias. Corresponde exigir que la naturaleza del acto se declare expresamente en el expediente, que se fundamente por qué no es ley cuando produce efectos generales, y que cualquier desviación sea impugnable. El ordenamiento ya ofrece la herramienta —el control de constitucionalidad del procedimiento—; falta el hábito de usarla en esta frontera temprana.
-
----
-
-**Fuente del capítulo.** CP arts. 124, 121, 195–196. Corpus: `formulacion-y-tramite/05-ii-clases-y-tipos-de-proyectos.md`; `tecnica-legislativa/01-doctrina/01-acto-legislativo-y-la-ley.md`, `02-definicion-del-acto-legislativo.md`, `07-diversos-nombres-que-se-les-dan.md`.

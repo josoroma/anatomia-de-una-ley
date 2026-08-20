@@ -16,7 +16,7 @@ Cada variable es un eje con dos polos: concentración frente a dispersión del p
 
 Cómo funciona: los ejes de tensión
 
-La literatura que el propio corpus cita —Meehan, desde la experiencia argentina, y las referencias al Parlamento español y al Congreso de los Estados Unidos en materia de consultas y estudios especiales— apunta a una tensión universal: cuántos filtros de revisión interponer entre la idea y la ley, y cuánta deliberación puede pagar un sistema antes de paralizarse.
+La literatura comparada —Meehan, desde la experiencia argentina, y las referencias al Parlamento español y al Congreso de los Estados Unidos en materia de consultas y estudios especiales— apunta a una tensión universal: cuántos filtros de revisión interponer entre la idea y la ley, y cuánta deliberación puede pagar un sistema antes de paralizarse.
 
 Concepto: Filtros y costos. Cada cámara adicional, cada debate adicional, cada consulta obligatoria es un filtro que encarece la ley y protege contra el error —pero también encarece el cambio legítimo. Un sistema sin filtros legisla rápido y mal; un sistema con demasiados filtros no legisla. El diseño es, en el fondo, una apuesta sobre cuál error es más costoso: el exceso de ley o la escasez de ley.
 
@@ -37,5 +37,3 @@ Análisis crítico y juicio normativo
 La lectura comparada devuelve al lector una pregunta para Costa Rica: dado que el sistema es unicameral, rápido y con iniciativa concentrada en los órganos, ¿dónde está el contrapeso? La respuesta que esta obra ha ido construyendo es triple: en la publicidad (que hace visible lo que se decide), en el derecho de enmienda y la participación de minorías (que impiden el dictado), y en el control constitucional del procedimiento (que vela por las reglas del juego). Donde el diseño ahorra filtros, la transparencia y el control jurisdiccional deben suplirlos.
 
 La variable que ningún diseño puede eludir es la que recorre todo este manual: quien decide debe responder de lo que decide, y solo puede responder si el procedimiento lo obliga a explicarse en público.
-
-Fuente del capítulo. CP arts. 105, 106, 123, 124. Referencias comparadas presentes en el corpus: Meehan (Argentina) y menciones a las Cortes Españolas y al Congreso de los EE. UU. en materia de consultas y estudios especiales. Corpus: tecnica-legislativa/01-doctrina/16-consultas-estudios-especiales.md, 03-fuentes.md, 28-delegacion-legislativa.md.

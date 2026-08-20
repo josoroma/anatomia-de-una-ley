@@ -1,6 +1,6 @@
 Plantilla integral de proyecto de ley
 
-Concepto: Del análisis a la redacción. Esta plantilla reúne los componentes que exigen el Reglamento de la Asamblea y la práctica parlamentaria, y los que impone la buena técnica legislativa. Cada pieza está anclada en el corpus. La versión editable completa vive en herramientas/plantilla-proyecto-ley.md.
+Concepto: Del análisis a la redacción. Esta plantilla reúne los componentes que exigen el Reglamento de la Asamblea y la práctica parlamentaria, y los que impone la buena técnica legislativa. La versión editable completa se encuentra en herramientas/plantilla-proyecto-ley.md.
 Portada
 
 PROYECTO DE LEY
@@ -57,5 +57,3 @@ Vigencia: fecha o regla clara (por defecto, diez días después de su publicaci�
 Principio de conexidad
 
 Advertencia: Una sola materia. Cada proyecto debe tratar una sola materia. La acumulación de reformas heterogéneas dificulta el debate, diluye la responsabilidad y puede provocar vicios de procedimiento. Las reformas a distintas leyes solo son admisibles si son conexas con la materia principal.
-
-Fuente del capítulo. Corpus: plantilla-proyecto-ley/01-portada-y-exposicion-motivos.md, 02-parte-dispositiva.md, 03-disposiciones-finales.md; tecnica-legislativa/01-doctrina/09-requisitos-formales.md, 25-estructura-logica.md. Normativa: CP arts. 124, 129, 140 inc. 3; RAL art. 113.

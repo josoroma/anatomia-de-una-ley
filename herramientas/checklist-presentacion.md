@@ -54,5 +54,3 @@ Verificar cada ítem antes de la presentación ante la Dirección Ejecutiva / Se
 - [ ] Título que no describe el contenido.
 - [ ] Artículos que remiten a normas inexistentes o derogadas.
 - [ ] Derogaciones tácitas sin identificación expresa.
-
-**Fuente.** Corpus `plantilla-proyecto-ley/04-checklist-presentacion.md`. Normativa: RAL arts. 19, 34, 113; CP arts. 121, 123, 140, 178, 195-196.

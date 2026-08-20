@@ -22,7 +22,7 @@ La información es el insumo de la decisión legislativa, y es el bien peor dist
 
 La asimetría de información tiene una consecuencia estructural: quien sabe más, decide más. El actor que llega al trámite con estudios, datos y expertos —el Ejecutivo, el interés organizado— impone su marco; el actor que depende de los servicios técnicos del Parlamento legisla a la defensiva. La calidad de la ley es, entonces, una función directa de la calidad y la simetría de la información disponible.
 
-Pregunta crítica: El cálculo que casi nunca se hace. Antes de aprobar, debería calcularse el costo y el beneficio de la norma: ¿a quién beneficia, a quién perjudica, cuánto cuesta, qué se sacrifica? Ese cálculo —la estimación de efectos— es el eslabón que el procedimiento costarricense omite con más frecuencia. Y no es casual: el cálculo incomoda, retrasa y puede matar el proyecto. Se prefiere legislar sobre la intención, no sobre el efecto.
+Pregunta crítica: El cálculo que casi nunca se hace.* Antes de aprobar, debería calcularse el costo y el beneficio de la norma: ¿a quién beneficia, a quién perjudica, cuánto cuesta, qué se sacrifica? Ese cálculo —la estimación de efectos— es el eslabón que el procedimiento costarricense omite con más frecuencia. Y no es casual: el cálculo incomoda, retrasa y puede matar el proyecto. Se prefiere legislar sobre la intención, no sobre el efecto.
 
 Análisis crítico
 
@@ -31,5 +31,3 @@ Leído como sistema de incentivos, el procedimiento costarricense produce un res
 Juicio normativo
 
 Si se quiere cambiar el resultado, hay que cambiar los incentivos: abaratar la información (servicios técnicos fuertes y públicos), encarecer la prisa (fundamentación de toda dispensa), simetrizar los costos (publicidad radical del expediente) y obligar al cálculo (estimación de efectos como requisito de admisión). Las reformas de procedimiento son, en el fondo, reformas de precios: cambian lo que cuesta cada conducta y, con ello, lo que el sistema produce.
-
-Fuente del capítulo.* Síntesis analítica de los capítulos 4, 6, 9 y 13 de esta obra, construida sobre el corpus data/case/procedimiento-legislativo/.

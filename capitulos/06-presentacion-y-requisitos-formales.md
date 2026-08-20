@@ -22,7 +22,7 @@ La doctrina distingue con nitidez dos clases de requisitos que se cumplirán a l
 
 ## Cómo funciona
 
-La presentación sigue un ciclo documental preciso, documentado en el corpus:
+La presentación sigue un ciclo documental preciso:
 
 1. **Registro y numeración.** El proyecto recibe número de expediente, que lo identifica de ahí en adelante.
 2. **Publicación y anotación.** Se publica el texto y se anota en los registros de la Asamblea.
@@ -46,7 +46,3 @@ El efecto estructural es sutil: la exigencia de forma, sin apoyo técnico accesi
 La presentación debería ser el momento donde se declara, junto al texto, la información mínima de justificación: problema, fines, medios, efectos esperados, costos, beneficiarios, alternativas. Hoy esa exigencia no existe con la fuerza debida, y su ausencia explica por qué tantos proyectos llegan al debate sin que nadie haya estimado qué harán.
 
 Fortalecer la presentación —exigir un expediente técnico mínimo y publicarlo íntegro— es la reforma más barata y de mayor rendimiento que puede hacerse al procedimiento. No toca quórums ni debates; solo obliga a que la información exista antes de decidir.
-
----
-
-**Fuente del capítulo.** CP art. 124. Corpus: `tecnica-legislativa/01-doctrina/09-requisitos-formales.md`, `10-caracteristicas-particulares-proyectos-ley.md`, `17-presentacion-proyecto-asamblea-legislativa.md`, `18-informe-diputados-proyectos-presentados.md`, `19-numeracion-anotacion-proyectos.md`, `20-publicacion-documentos-proyecto.md`, `21-autos-de-presentacion.md`.

@@ -37,7 +37,3 @@ Para el Ejecutivo y los entes descentralizados, la delegación es poder: recibir
 ## Análisis crítico y juicio normativo
 
 La regla de oro es la **prueba del marco**: una delegación es legítima si la ley fija el marco —el supuesto, el fin, los límites y los criterios— y deja solo el desarrollo técnico; es ilegítima si el reglamento puede decidir lo esencial. Redactar bien es, en buena medida, saber cuándo dejar de escribir: escribir la regla en la ley, no el hueco que otro llenará.
-
----
-
-**Fuente del capítulo.** Corpus: `tecnica-legislativa/01-doctrina/28-delegacion-legislativa.md`, `27-otros-aspectos-formacion-leyes.md`.

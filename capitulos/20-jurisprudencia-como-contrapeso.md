@@ -50,7 +50,3 @@ El contrapeso de la Sala es que esa reforma *ad hoc* se examina bajo la lente de
 La lección normativa de la sentencia 2007-002901 puede resumirse en una regla: **las reglas del procedimiento no deben cambiarse a favor de un resultado concreto.** Toda reforma del Reglamento pensada para un proyecto singular debe presumirse sospechosa, y toda compresión de tiempos debe pagar el precio de la publicidad y de la fundamentación.
 
 El control jurisdiccional del procedimiento es, en última instancia, la garantía de que el poder de legislar —el poder más amplio del Estado— se ejerce a través de una deliberación que merece ese nombre.
-
----
-
-**Fuente del capítulo.** Sala Constitucional, res. N.º 2007-002901 de las 15:39 horas del 28/02/2007 (exp. 07-001189-0007-CO). Corpus: `tecnica-legislativa/02-jurisprudencia/01-consulta-procedimiento-articulo-208-bis.md`; CP arts. 121 inc. 22, 7; Ley de la Jurisdicción Constitucional, arts. 81-82.

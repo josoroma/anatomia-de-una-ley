@@ -48,7 +48,3 @@ La caducidad, por su parte, es un arma de doble filo. Por un lado, limpia el sis
 ## Análisis crítico y juicio normativo
 
 La regla que esta obra propone es de simetría: **toda compresión del tiempo (dispensa) y toda extinción por tiempo (caducidad) debería exigir fundamentación y publicidad.** Si la urgencia es real, puede motivarse; si el abandono es deliberado, puede declararse. Lo que no es aceptable es que el tiempo decida en silencio: ni la prisa sin motivo ni el archivo sin explicación son deliberación.
-
----
-
-**Fuente del capítulo.** RAL (caducidad, dispensa). Corpus: `tecnica-legislativa/01-doctrina/23-caducidad-de-los-asuntos.md`, `05-formacion-de-las-leyes.md`; `formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md`.
