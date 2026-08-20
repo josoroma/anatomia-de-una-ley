@@ -19,7 +19,6 @@
   const elBarraRelleno = $("#barra-relleno");
   const elLateral = $("#lateral");
   const elVelo = $("#velo");
-  const elContinuar = $("#continuar");
 
   const STORE = "anatomia.progreso";
 
@@ -198,24 +197,6 @@
     if (!raf) raf = requestAnimationFrame(actualizarProgreso);
   }, { passive: true });
 
-  // ── Continuar leyendo ──────────────────────────────────────────────────
-  function ofrecerContinuar() {
-    const estado = leerEstado();
-    const ultimo = estado.ultimo;
-    if (!ultimo || ultimo === slugActual() || !bySlug[ultimo]) return;
-    if (sessionStorage.getItem("anatomia.continuar-visto")) return;
-    const c = bySlug[ultimo];
-    $("#continuar-texto").textContent = "Continuar leyendo: " + c.titulo;
-    $("#continuar-boton").onclick = () => {
-      navegar(ultimo, true);
-      ocultarContinuar();
-    };
-    $("#continuar-cerrar").onclick = ocultarContinuar;
-    elContinuar.hidden = false;
-    sessionStorage.setItem("anatomia.continuar-visto", "1");
-  }
-  function ocultarContinuar() { elContinuar.hidden = true; }
-
   // ── Menú móvil ─────────────────────────────────────────────────────────
   function abrirMenu() { document.body.classList.add("menu-abierto"); elVelo.hidden = false; }
   function cerrarMenu() { document.body.classList.remove("menu-abierto"); elVelo.hidden = true; }
@@ -308,5 +289,4 @@
     const ultimo = estado.ultimo && bySlug[estado.ultimo] ? estado.ultimo : chapters[0].slug;
     navegar(ultimo);
   }
-  ofrecerContinuar();
 })();

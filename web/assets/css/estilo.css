@@ -496,28 +496,6 @@ body {
   cursor: pointer;
 }
 
-/* ── Continuar leyendo ─────────────────────────────────────────────────── */
-.continuar {
-  position: fixed;
-  bottom: 1rem; left: 50%;
-  transform: translateX(-50%);
-  background: var(--fondo-elevado);
-  border: 1px solid var(--borde);
-  border-radius: 999px;
-  padding: 0.5rem 0.7rem 0.5rem 1.1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.7rem;
-  box-shadow: var(--sombra);
-  z-index: 90;
-  font-family: var(--sans);
-  font-size: 0.85rem;
-  max-width: 92vw;
-}
-.continuar span { color: var(--texto-suave); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.boton--continuar { background: var(--acento); color: #141210; border: none; font-weight: 600; }
-.boton--cerrar { border: none; background: none; color: var(--texto-tenue); font-size: 1rem; padding: 0.2rem 0.4rem; }
-
 .velo {
   position: fixed; inset: 0;
   background: rgba(0,0,0,0.45);
