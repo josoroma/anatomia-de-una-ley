@@ -2,6 +2,9 @@
 
 **Manual crítico del procedimiento legislativo costarricense**
 
+**Publicado en:** <https://josoroma.github.io/anatomia-de-una-ley/>
+**Repositorio:** <https://github.com/josoroma/anatomia-de-una-ley>
+
 Obra editorial autosuficiente construida a partir del corpus
 `data/case/procedimiento-legislativo/`. Integra procedimiento legislativo,
 formulación de proyectos de ley, técnica legislativa, doctrina, jurisprudencia,
@@ -62,11 +65,13 @@ python3 -m http.server 8080
 
 ## Cómo publicar
 
-El sitio es 100 % estático y autocontenido. Para publicarlo en **GitHub Pages**:
+El sitio es 100 % estático y autocontenido. Ya está publicado en **GitHub Pages**:
 
-1. Sube el directorio `web/` a la rama `gh-pages` (o configura Pages para
-   servirlo desde `main` apuntando a la carpeta `web/`).
-2. El sitio queda en `https://<usuario>.github.io/<repositorio>/web/`.
+- **Lectura:** <https://josoroma.github.io/anatomia-de-una-ley/>
+- **Repositorio:** <https://github.com/josoroma/anatomia-de-una-ley>
+
+El `index.html` de la raíz redirige automáticamente a `web/index.html`, por lo
+que Pages funciona sin configuración adicional (rama `main`, carpeta raíz).
 
 Como `libro.js` se carga con una etiqueta `<script>` (no con `fetch`), el libro
 funciona igual por `file://` y por `http(s)://` —sin problemas de CORS.
