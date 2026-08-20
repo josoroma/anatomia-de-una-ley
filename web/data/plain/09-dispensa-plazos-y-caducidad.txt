@@ -1,0 +1,39 @@
+Dispensa, plazos y caducidad
+
+Pregunta crítica: El tiempo es poder. En el procedimiento legislativo, el tiempo es un recurso que se administra y se disputa. Quien controla los plazos —qué avanza, qué espera, qué caduca— controla una parte decisiva del resultado. Este capítulo examina las tres instituciones donde el tiempo se decide: la dispensa de trámites, los plazos internos y la caducidad.
+
+El hecho jurídico: la caducidad
+
+El Reglamento de la Asamblea fija un límite de vida para los asuntos:
+
+Norma: Caducidad de los asuntos (RAL, art. 119, reformado por sesión N.º 31 del 21 de junio de 2022). «Al finalizar un período constitucional, los proyectos de ley pendientes de resolución podrán estudiarse en el siguiente, por iniciativa del Poder Ejecutivo o de las y los diputados. (...) En todos estos casos, tales asuntos seguirán los trámites que aún les falten. Pasados cuatro años calendario a partir de su iniciación, se tendrán como no presentados y sin más trámite se ordenará su archivo. No obstante, la Asamblea podrá conceder un nuevo plazo por votación de mayoría absoluta del total de sus miembros, siempre que la moción correspondiente se presente y se vote antes del vencimiento del plazo.»
+
+La regla es doble: (1) los asuntos sobreviven al fin de un período constitucional y pueden retomarse en el siguiente, a instancia del Ejecutivo o de los diputados; y (2) a los cuatro años calendario desde su inicio, caducan y se archivan como si nunca se hubieran presentado, salvo que la Asamblea conceda nuevo plazo por mayoría absoluta del total de sus miembros, siempre que la prórroga se pida y se vote antes del vencimiento. La reforma de 2022 endureció además el tratamiento de la prórroga: la moción de ampliación debe agendarse como primer punto del Régimen Interno, y si llegada la última sesión no se ha conocido, la Presidencia debe darla por discutida y someterla a votación.
+
+El hecho jurídico: la dispensa de trámites
+
+La dispensa de trámites permite comprimir el recorrido, pero con un límite estructural que ya se anticipó:
+
+Concepto: Solo lo reglamentario se dispensa. Pueden dispensarse los trámites reglamentarios —el paso por comisión, los plazos internos— pero nunca los constitucionales: los debates, la sanción del Ejecutivo y la publicación. La doctrina compilada lo expresa sin ambages: dispensar los debates llevaría "a una situación peligrosísima que originaría todo un proceso de descomposición política, de arbitrariedades y abusos del Poder Legislativo".
+
+Cómo funciona
+
+La dispensa opera, en la práctica, como una declaración de urgencia: la Asamblea acuerda saltarse etapas reglamentarias para llevar un proyecto directamente al debate. La caducidad, en cambio, opera como un reloj de arena silencioso: los proyectos que no avanzan mueren solos a los cuatro años.
+
+Ambas instituciones son caras de la misma moneda: la administración del tiempo legislativo. La dispensa lo acelera; la caducidad lo corta. Y ambas están en manos de las mismas personas —la mayoría y el Directorio— que deciden qué merece prisa y qué merece olvido.
+
+Pregunta crítica: ¿Quién decide la urgencia? La urgencia es siempre una afirmación interesada. Quien impulsa un proyecto tiende a declararlo urgente; quien lo objeta, a pedir tiempo. Sin un criterio objetivo, la "urgencia" es el disfraz preferido de la prisa: se dispensa el estudio en nombre de una emergencia que, examinada de cerca, suele ser solo conveniencia de la coalición. La caducidad, en sentido inverso, puede usarse para matar por inanición lo que no se quiere debatir: basta con no darle agenda.
+
+Incentivos y efectos
+
+La dispensa crea un incentivo perverso: si aprobar rápido es posible, declarar urgencia se vuelve la estrategia dominante de toda coalición con prisa. El resultado es que la excepción (la urgencia) tiende a convertirse en regla, y la deliberación, en lujo ocasional.
+
+La caducidad, por su parte, es un arma de doble filo. Por un lado, limpia el sistema de proyectos muertos; por otro, permite que un proyecto indeseado expire sin debate, sin votación y sin rendición de cuentas: nadie lo rechazó, simplemente "caducó". Es la forma más silenciosa de decir no.
+
+Advertencia: El silencio decide. Un proyecto que caduca no fue derrotado por argumentos, sino por el paso del tiempo y por la decisión de no agendarlo. Esa derrota no deja acta, no fundamenta, no se apela. La caducidad es, por eso, la vía por la que se toman decisiones sin deliberación: el proyecto muere sin que nadie haya tenido que explicar por qué.
+
+Análisis crítico y juicio normativo
+
+La regla que esta obra propone es de simetría: toda compresión del tiempo (dispensa) y toda extinción por tiempo (caducidad) debería exigir fundamentación y publicidad. Si la urgencia es real, puede motivarse; si el abandono es deliberado, puede declararse. Lo que no es aceptable es que el tiempo decida en silencio: ni la prisa sin motivo ni el archivo sin explicación son deliberación.
+
+Fuente del capítulo. RAL (caducidad, dispensa). Corpus: tecnica-legislativa/01-doctrina/23-caducidad-de-los-asuntos.md, 05-formacion-de-las-leyes.md; formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md.

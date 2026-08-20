@@ -1,0 +1,48 @@
+---
+numero: 17
+parte: "Parte IV · Anatomía crítica"
+titulo: "La economía del procedimiento"
+slug: "la-economia-del-procedimiento"
+resumen: "Costos, tiempo e información: leer el trámite legislativo como un sistema de incentivos."
+---
+
+# La economía del procedimiento
+
+> [!concepto]
+> **Toda regla tiene un precio.** El procedimiento legislativo puede leerse como un sistema de costos y beneficios: cada regla encarece o abarata una conducta, cada actor responde a esos incentivos y el resultado es la suma —a menudo no intencionada— de esas respuestas. Este capítulo aplica esa lectura a los costos, al tiempo y a la información.
+
+## Costos: quién paga por legislar
+
+Legislar cuesta. Redactar un proyecto cuesta tiempo y conocimiento; estudiarlo cuesta información; enmendarlo cuesta organización; vetarlo cuesta capital político; publicarlo cuesta recursos. La pregunta decisiva es **quién paga cada costo**.
+
+La respuesta, a lo largo de esta obra, es recurrente: los costos se concentran en quienes no tienen aparato —el ciudadano, el diputado individual, la minoría— y se diluyen en quienes sí lo tienen —el Ejecutivo, los grandes intereses organizados, la mayoría con su disciplina de fracción. La distribución de costos es, por tanto, una distribución de poder.
+
+> [!critica]
+> **¿Quién paga y quién cobra?** Ante cada pieza del procedimiento conviene hacer la contabilidad explícita: ¿quién invierte recursos para que este proyecto avance, y quién invierte para detenerlo o enmendarlo? Si el costo de avanzar lo paga un grupo concentrado y el de oponerse lo pagan muchos dispersos, el resultado está predeterminado: la ley servirá al grupo concentrado. Esa es la economía política elemental de la legislación.
+
+## Tiempo: el recurso que se administra
+
+El tiempo legislativo es finito y se administra mediante la agenda. Quien controla la agenda —el Directorio, las jefaturas de fracción— controla qué se discute y qué caduca. El capítulo 9 mostró las instituciones del tiempo: la dispensa (comprimir) y la caducidad (extinguir). Ambas son, en términos económicos, decisiones sobre la asignación de un recurso escaso.
+
+El tiempo tiene un sesgo sistemático: **favorece al *statu quo*.** Aplazar es, en la práctica, decidir no hacer. Quien se beneficia del orden vigente prefiere el retraso; quien lo impugna necesita la prisa. Por eso la administración del tiempo legislativo es, en gran medida, la administración del cambio: un Parlamento que nunca agenda es un Parlamento que decide, por omisión, conservar todo.
+
+## Información: el bien más escaso
+
+La información es el insumo de la decisión legislativa, y es el bien peor distribuido del procedimiento (capítulo 4). El decisor ideal necesitaría conocer: el problema real, las causas, las alternativas, los efectos de cada opción, los costos y los beneficiarios. El decisor real dispone, en el mejor de los casos, de una fracción de eso —filtrada por quien la produjo y la financió.
+
+La asimetría de información tiene una consecuencia estructural: **quien sabe más, decide más.** El actor que llega al trámite con estudios, datos y expertos —el Ejecutivo, el interés organizado— impone su marco; el actor que depende de los servicios técnicos del Parlamento legisla a la defensiva. La calidad de la ley es, entonces, una función directa de la calidad y la simetría de la información disponible.
+
+> [!critica]
+> **El cálculo que casi nunca se hace.** Antes de aprobar, debería calcularse el costo y el beneficio de la norma: ¿a quién beneficia, a quién perjudica, cuánto cuesta, qué se sacrifica? Ese cálculo —la estimación de efectos— es el eslabón que el procedimiento costarricense omite con más frecuencia. Y no es casual: el cálculo incomoda, retrasa y puede matar el proyecto. Se prefiere legislar sobre la intención, no sobre el efecto.
+
+## Análisis crítico
+
+Leído como sistema de incentivos, el procedimiento costarricense produce un resultado predecible: normas que sirven a quienes pueden pagar el costo de producirlas y empujarlas, aprobadas sobre la base de información parcial, con poca estimación de efectos y con una deliberación que la prisa comprime. No es un defecto de personas, sino de diseño: el sistema premia la organización, la prisa y la opacidad, y castiga la deliberación, la información y la transparencia.
+
+## Juicio normativo
+
+Si se quiere cambiar el resultado, hay que cambiar los incentivos: abaratar la información (servicios técnicos fuertes y públicos), encarecer la prisa (fundamentación de toda dispensa), simetrizar los costos (publicidad radical del expediente) y obligar al cálculo (estimación de efectos como requisito de admisión). Las reformas de procedimiento son, en el fondo, reformas de precios: cambian lo que cuesta cada conducta y, con ello, lo que el sistema produce.
+
+---
+
+**Fuente del capítulo.** Síntesis analítica de los capítulos 4, 6, 9 y 13 de esta obra, construida sobre el corpus `data/case/procedimiento-legislativo/`.

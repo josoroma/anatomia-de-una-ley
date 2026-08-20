@@ -1,0 +1,33 @@
+Clases de proyectos y naturaleza del acto
+
+Concepto: La distinción fundante. La palabra "proyecto" es ambigua. La Asamblea aprueba cosas distintas —leyes, acuerdos, reformas constitucionales, interpretaciones— y cada una sigue un trámite distinto. Antes de redactar, hay que saber qué clase de acto se pretende, porque la clase define los requisitos, los quórums y el destino del texto.
+
+El hecho jurídico
+
+La doctrina y el corpus distinguen varias clases de actos legislativos:
+Proyectos de ley. Normas generales, abstractas y de aplicación a futuro, que innovan el ordenamiento. Son el paradigma del acto legislativo y requieren el trámite completo.
+Acuerdos legislativos. Decisiones concretas, sin vocación de generalidad, que no tienen carácter de ley y que se votan en una sola sesión. El artículo 124 constitucional enumera expresamente cuáles actos son acuerdos: los de los incisos 2), 3), 5), 6), 7), 8), 9), 10), 12), 16), 21), 22), 23) y 24) del artículo 121, así como el acto legislativo para convocar a referéndum.
+Reformas constitucionales. Parciales (CP art. 195) o generales (CP art. 196), con trámite agravado propio.
+Actos de interpretación auténtica y derogatorias. La Asamblea puede dictar interpretación auténtica de las leyes (CP art. 121, inciso 1) y derogarlas.
+
+Norma: CP art. 124. «Para convertirse en ley, todo proyecto deberá ser objeto de dos debates, cada uno en día distinto no consecutivo, obtener la aprobación de la Asamblea Legislativa y la sanción del Poder Ejecutivo; además, deberá publicarse en La Gaceta (...). No tendrán carácter de leyes ni requerirán, por tanto, los trámites anteriores, los acuerdos tomados en uso de las atribuciones enumeradas en los incisos 2), 3), 5), 6), 7), 8), 9), 10), 12), 16), 21), 22), 23) y 24) del artículo 121 así como el acto legislativo para convocar a referéndum, los cuales se votarán en una sola sesión y deberán publicarse en La Gaceta.»
+
+Cómo funciona
+
+La diferencia práctica entre ley y acuerdo es enorme. La ley exige dos debates, sanción del Ejecutivo y publicación; el acuerdo se vota en una sola sesión y se publica, sin sanción. La línea divisoria es la generalidad: lo que fija reglas generales para todos es ley; lo que decide un caso o un acto concreto es acuerdo.
+
+La frontera no siempre es nítida, y ahí aparece el riesgo. Un acto con efectos generales disfrazado de acuerdo evadiría los debates, la sanción y el escrutinio propios de la ley. Por eso la clasificación no es una cuestión de etiqueta, sino de control: clasificar bien es decidir cuánto escrutinio tendrá un acto.
+
+Pregunta crítica: ¿Quién clasifica? En principio, el proponente y el Directorio al registrar el proyecto. Pero la clasificación es ella misma un punto de disputa: si el acto se tramita como acuerdo, se eluden dos debates y la sanción. El incentivo para subclasificar —tramitar como acuerdo lo que es ley— existe siempre que la prisa o la conveniencia lo recomiende. La vigilancia sobre la correcta naturaleza del acto es, por tanto, una de las defensas más baratas y más eficaces del procedimiento.
+
+Incentivos y efectos
+
+La existencia de categorías distintas con trámites distintos crea un menú de costos procedimentales. Quien quiere una norma de alcance general pero teme el debate, siente la tentación de la vía rápida: el acuerdo, la interpretación auténtica, o la reforma reglamentaria para un caso concreto. La jurisprudencia examinada en esta obra captó exactamente ese movimiento —una reforma reglamentaria hecha "a la medida" para tramitar un expediente concreto— y lo sometió a escrutinio.
+
+La lección estructural es que toda vía rápida es un subsidio a quien está mejor posicionado para usarla: quien controla la agenda y las mayorías calificadas puede comprimir el trámite; las minorías, no.
+
+Análisis crítico y juicio normativo
+
+La clasificación de los actos legislativos es la primera decisión del procedimiento y una de las más cargadas de consecuencias. Corresponde exigir que la naturaleza del acto se declare expresamente en el expediente, que se fundamente por qué no es ley cuando produce efectos generales, y que cualquier desviación sea impugnable. El ordenamiento ya ofrece la herramienta —el control de constitucionalidad del procedimiento—; falta el hábito de usarla en esta frontera temprana.
+
+Fuente del capítulo. CP arts. 124, 121, 195–196. Corpus: formulacion-y-tramite/05-ii-clases-y-tipos-de-proyectos.md; tecnica-legislativa/01-doctrina/01-acto-legislativo-y-la-ley.md, 02-definicion-del-acto-legislativo.md, 07-diversos-nombres-que-se-les-dan.md.

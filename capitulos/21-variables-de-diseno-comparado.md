@@ -1,0 +1,56 @@
+---
+numero: 21
+parte: "Parte IV · Anatomía crítica"
+titulo: "Variables de diseño: una lectura comparada"
+slug: "variables-de-diseno-comparado"
+resumen: "El procedimiento costarricense como elección entre diseños posibles: qué variables están en juego y qué revelan de la teoría de la ley."
+---
+
+# Variables de diseño: una lectura comparada
+
+> [!critica]
+> **Todo procedimiento es una elección, no una fatalidad.** Que la Asamblea sea unicameral, que la iniciativa sea compartida, que exista delegación en comisiones o referéndum: nada de eso es "natural"; cada pieza es una decisión de diseño con consecuencias previsibles. Este capítulo lee el sistema costarricense como una respuesta particular a preguntas que otros sistemas responden de otro modo.
+
+## Las variables en juego
+
+El procedimiento legislativo puede descomponerse en un puñado de variables de diseño. Cada una define *quién decide* y *con qué costos*. Costa Rica opta así:
+
+> [!norma]
+> **Las elecciones del diseño costarricense.**
+> - **Unicameralismo.** Una sola cámara de 57 diputados (CP art. 106 y concordantes). No hay cámara revisora: la calidad del texto depende de los debates y las comisiones de la misma cámara.
+> - **Iniciativa compartida.** Pueden proponer ley los diputados, el Poder Ejecutivo y el pueblo por iniciativa del cinco por ciento del padrón (CP art. 123), con materias reservadas que excluyen la iniciativa popular (presupuesto, tributos, empréstitos, actos administrativos).
+> - **Delegación en comisiones.** La Asamblea puede delegar en comisiones permanentes la discusión y aprobación, por dos tercios del total, salvo materias excluidas (CP art. 124).
+> - **Referéndum.** La aprobación o derogación de leyes y la reforma parcial de la Constitución pueden someterse a referéndum (CP art. 105), con materias excluidas.
+
+Cada variable es un eje con dos polos: concentración frente a dispersión del poder, mayor o menor costo de decidir, más o menos filtros de revisión.
+
+## Cómo funciona: los ejes de tensión
+
+La literatura que el propio corpus cita —Meehan, desde la experiencia argentina, y las referencias al Parlamento español y al Congreso de los Estados Unidos en materia de consultas y estudios especiales— apunta a una tensión universal: **cuántos filtros de revisión interponer entre la idea y la ley, y cuánta deliberación puede pagar un sistema antes de paralizarse.**
+
+> [!concepto]
+> **Filtros y costos.** Cada cámara adicional, cada debate adicional, cada consulta obligatoria es un filtro que encarece la ley y protege contra el error —pero también encarece el cambio legítimo. Un sistema sin filtros legisla rápido y mal; un sistema con demasiados filtros no legisla. El diseño es, en el fondo, una apuesta sobre cuál error es más costoso: el exceso de ley o la escasez de ley.
+
+El unicameralismo costarricense es, en esta lectura, una apuesta por la velocidad y la simplicidad: un solo cuerpo decide sin revisión por otra cámara. Su costo es que la revisión debe ocurrir *dentro* del mismo cuerpo —por eso las comisiones de redacción, los segundos debates y el control de la Sala Constitucional cargan con un peso que en sistemas bicamerales asume la cámara alta.
+
+## Incentivos y efectos
+
+Cada elección de diseño redistribuye poder e información:
+
+- **Unicameralismo** concentra la decisión y reduce los puntos de veto: quien controla la mayoría simple de una cámara controla, en principio, la producción legislativa. No hay una segunda cámara que ponga a prueba el texto frente a otra base electoral o territorial.
+- **Iniciativa ejecutiva** da al Presidente una vía privilegiada para fijar la agenda (presupuesto, tributos, empréstitos); la iniciativa popular es la válvula que permite a los ciudadanos saltarse a los intermediarios, pero su umbral (cinco por ciento) es un costo de entrada que favorece a quien puede movilizar firmas.
+- **Delegación en comisiones** traslada la decisión de la plenaria a un cuerpo pequeño y especializado: gana deliberación técnica, pero pierde visibilidad y dispersión del poder —un proyecto puede convertirse en ley sin pasar por el Plenario.
+- **Referéndum** devuelve la decisión al pueblo, pero transforma una deliberación continua en una votación binaria y puntual, sensible al encuadre de la pregunta y al momento de la convocatoria.
+
+> [!critica]
+> **¿A quién beneficia cada filtro?** La pregunta comparada no es "qué sistema es mejor" sino "qué sistema protege mejor a quién". Los filtros benefician a quien quiere frenar (minorías, disenso); la velocidad beneficia a quien quiere aprobar (mayorías, agenda ejecutiva). Un diseño es, en su núcleo, una distribución de poder de veto.
+
+## Análisis crítico y juicio normativo
+
+La lectura comparada devuelve al lector una pregunta para Costa Rica: dado que el sistema es unicameral, rápido y con iniciativa concentrada en los órganos, **¿dónde está el contrapeso?** La respuesta que esta obra ha ido construyendo es triple: en la **publicidad** (que hace visible lo que se decide), en el **derecho de enmienda y la participación de minorías** (que impiden el dictado), y en el **control constitucional del procedimiento** (que vela por las reglas del juego). Donde el diseño ahorra filtros, la transparencia y el control jurisdiccional deben suplirlos.
+
+La variable que ningún diseño puede eludir es la que recorre todo este manual: **quien decide debe responder de lo que decide, y solo puede responder si el procedimiento lo obliga a explicarse en público.**
+
+---
+
+**Fuente del capítulo.** CP arts. 105, 106, 123, 124. Referencias comparadas presentes en el corpus: Meehan (Argentina) y menciones a las Cortes Españolas y al Congreso de los EE. UU. en materia de consultas y estudios especiales. Corpus: `tecnica-legislativa/01-doctrina/16-consultas-estudios-especiales.md`, `03-fuentes.md`, `28-delegacion-legislativa.md`.

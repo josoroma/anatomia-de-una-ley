@@ -1,0 +1,56 @@
+Anatomía de una Ley
+
+Manual crítico del procedimiento legislativo costarricense
+
+Concepto: La tesis de esta obra. Toda ley es el producto visible de un proceso invisible. Antes de ser norma, un proyecto de ley es una secuencia de decisiones humanas —quién propone, quién dictamina, quién enmienda, quién vota, quién veta, quién publica— cada una de ellas rodeada de incentivos, costos, asimetrías de información y juegos de poder. Este manual explica el procedimiento legislativo costarricense desde dentro: cómo funciona, por qué está diseñado así, qué conductas premia, qué conductas castiga y qué consecuencias —buscadas o no— produce.
+
+Sobre esta obra
+
+Este manual reconstruye, reorganiza y sintetiza el corpus documental del procedimiento legislativo costarricense que vive en data/case/procedimiento-legislativo/. No es un resumen de documentos existentes, sino una obra editorial nueva: una anatomía completa del camino que recorre una iniciativa desde que es idea hasta que se publica en La Gaceta y adquiere fuerza obligatoria.
+
+La fuente normativa primaria de este trabajo es la Constitución Política (arts. 105, 121, 123 a 127, 129, 195 y 196) y el Reglamento de la Asamblea Legislativa; la fuente doctrinal, jurisprudencial y de técnica legislativa es el corpus local. Toda afirmación jurídica sustantiva que aquí se hace remite a un archivo del corpus o a un artículo constitucional, y se cita de forma verificable.
+
+Advertencia: Alcance y límite. Este manual es una herramienta de estudio y de trabajo profesional. No sustituye el criterio del abogado responsable ni releva de verificar el texto vigente de cada norma en el Diario Oficial antes de actuar. Los plazos, quórums y procedimientos aquí descritos corresponden al estado del ordenamiento al momento de la compilación del corpus; toda reforma posterior prevalece.
+
+El método: una separación de cinco capas
+
+Para analizar cada institución —la iniciativa, la comisión, la moción, el veto, la publicación— este manual separa sistemáticamente cinco niveles de discurso, que suelen confundirse y que conviene mantener distintos:
+El hecho jurídico. Qué dice la norma: quién puede, con qué requisitos, en qué plazo. Es el dato duro, verificable.
+El funcionamiento institucional. Cómo opera ese mecanismo en la práctica: quién ejecuta cada paso, qué documento se produce, qué puerta se abre o se cierra.
+Los incentivos y efectos. Qué conducta premia o castiga el diseño; qué costos y beneficios percibe cada actor.
+El análisis crítico. Qué problemas de fondo revela ese diseño, a la luz de las preguntas rectoras de esta obra.
+El juicio normativo. Qué debería cambiar, y con qué criterio, si se persiguen procedimientos más deliberativos, menos concentrados y más respetuosos de la libertad de las personas.
+
+Las preguntas rectoras
+
+Frente a cada norma, cada proyecto y cada institución, esta obra formula —cuando corresponde— las siguientes preguntas:
+¿Quién decide?
+¿Quién obtiene nuevo poder?
+¿Quién paga y quién recibe el beneficio?
+¿Qué incentivos aparecen?
+¿Qué información necesita el decisor y puede realmente disponer de ella?
+¿Qué privilegios o barreras de entrada se crean?
+¿Qué decisiones privadas se restringen?
+¿Qué consecuencias no intencionadas pueden surgir?
+¿Existe una alternativa menos coercitiva, más voluntaria o descentralizada?
+
+Estas preguntas no presuponen una escuela de pensamiento. Son un método de disección: obligan a mirar la ley no como un texto, sino como un sistema de reglas que redistribuye decisiones, costos y poder entre personas concretas.
+
+Pregunta crítica: Por qué importa el procedimiento. La democracia representativa descansa sobre una intuición sencilla: que el poder de dictar normas generales y obligatorias no quede en manos de nadie que pueda ejercerlo sin deliberación, sin publicidad y sin contrapesos. Cuando el procedimiento se vuelve opaco, apresurado o capturable, la ley deja de ser el resultado de un debate y se convierte en el instrumento de quien logró colocarse, en el momento exacto, junto a la palanca de decisión. Estudiar el procedimiento es, por tanto, estudiar el punto donde la libertad de los ciudadanos se protege o se pierde.
+
+Cómo leer este manual
+
+La obra se organiza en cinco partes:
+Parte I — El escenario institucional. Quién legisla y con qué herramientas: la Asamblea, los actores con iniciativa, las comisiones y los servicios técnicos.
+Parte II — La vida de un proyecto. El trámite completo, de la iniciativa a la publicación, incluida la reforma constitucional.
+Parte III — La técnica legislativa. Cómo se redacta bien: lenguaje, estructura, delegación, expediente.
+Parte IV — Anatomía crítica. La economía del procedimiento, la concentración de poder, la captura, las consecuencias no intencionadas, la jurisprudencia como contrapeso y el derecho comparado.
+Parte V — Herramientas. Plantilla integral de proyecto de ley, checklists de control y glosario.
+
+Cada capítulo es autónomo y puede leerse en cualquier orden; las remisiones internas señalan los cruces relevantes. La versión web de este manual permite navegar por capítulos, medir el progreso de lectura, guardar la posición y escuchar cada capítulo en audio.
+
+Una nota sobre el título
+
+Se llama Anatomía porque la intención es la de una disección: abrir el procedimiento legislativo, capa por capa, para ver qué hay debajo del lenguaje solemne. Toda ley tiene una biografía —una serie de decisiones, acuerdos y silencios— que determina, en buena medida, si la norma servirá a las personas o a los intereses de quienes estuvieron mejor situados durante su gestación. Este manual cuenta esa biografía.
+
+Fuente del capítulo. Corpus local data/case/procedimiento-legislativo/ (formulación y trámite, técnica legislativa, jurisprudencia y plantilla). Normativa: CP arts. 105, 121, 123–127, 129, 195–196.

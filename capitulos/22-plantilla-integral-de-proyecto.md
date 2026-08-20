@@ -1,0 +1,91 @@
+---
+numero: 22
+parte: "Parte V · Herramientas"
+titulo: "Plantilla integral de proyecto de ley"
+slug: "plantilla-integral-de-proyecto"
+resumen: "La estructura completa de un proyecto de ley costarricense, pieza por pieza, lista para usar."
+---
+
+# Plantilla integral de proyecto de ley
+
+> [!concepto]
+> **Del análisis a la redacción.** Esta plantilla reúne los componentes que exigen el Reglamento de la Asamblea y la práctica parlamentaria, y los que impone la buena técnica legislativa. Cada pieza está anclada en el corpus. La versión editable completa vive en `herramientas/plantilla-proyecto-ley.md`.
+
+## 1. Portada
+
+```text
+PROYECTO DE LEY
+
+[NOMBRE COMPLETO DEL PROYECTO]
+
+EXPEDIENTE N.º __________
+
+PRESENTADO POR: [Nombre del diputado/a proponente]
+
+FECHA DE PRESENTACIÓN: __/__/____
+```
+
+Reglas del nombre (título):
+
+- **Ley nueva:** «Ley de [Materia]». Ej.: «Ley de Protección de Datos Personales».
+- **Ley modificativa:** «Reforma de [artículos] de la Ley N.º XXXX, [Nombre]».
+- **Ley derogatoria:** «Derogatoria de [norma que se deroga]».
+- Debe ser preciso, completo y breve; debe definir el contenido sin obligar a leer el articulado.
+
+## 2. Fórmula de rigor
+
+> [!norma]
+> **Fórmula de rigor.** Inmediatamente antes del articulado:
+>
+> ```
+> LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA
+> DECRETA:
+>
+> [NOMBRE DE LA LEY]
+> ```
+
+## 3. Exposición de motivos
+
+```text
+EXPOSICIÓN DE MOTIVOS
+
+I.   CONTEXTO Y FUNDAMENTO CONSTITUCIONAL
+II.  SITUACIÓN ACTUAL Y PROBLEMA QUE SE PRETENDE RESOLVER
+III. OBJETO Y FINALIDAD DEL PROYECTO
+IV.  CONTENIDO DEL PROYECTO (resumen del articulado, agrupado por materias)
+V.   ANÁLISIS DE CONSTITUCIONALIDAD Y CONVENCIONALIDAD
+VI.  ANÁLISIS DE IMPACTO (fiscal —obligatorio si genera gasto—, administrativo, sectorial)
+VII. CONSULTAS REALIZADAS (instituciones, sectores, expertos)
+VIII.CONCLUSIÓN
+```
+
+Reglas: redacción doctrinal y técnica, no panfletaria; «breve pero exacta» sobre propósitos, situaciones reguladas, objeto y efectos; evitar adjetivos valorativos.
+
+## 4. Firma
+
+- Iniciativa legislativa: firma del diputado o diputados proponentes.
+- Iniciativa del Poder Ejecutivo: firma del Presidente de la República y del Ministro del ramo (CP art. 140 inc. 3).
+
+## 5. Parte dispositiva (articulado)
+
+> [!norma]
+> **Estructura del articulado.**
+> - Artículos numerados con arábigos consecutivos.
+> - Incisos con letras minúsculas y paréntesis: a), b), c); subincisos con números arábigos: 1), 2).
+> - Orden lógico: de lo general a lo particular; lo sustantivo antes que lo procesal.
+> - Cada artículo, una sola regla o mandato.
+
+## 6. Disposiciones finales
+
+- **Derogatorias:** expresas y específicas, listando cada norma derogada. No se admiten derogaciones tácitas.
+- **Transitorias:** cubren todas las situaciones en curso al momento de la entrada en vigencia.
+- **Vigencia:** fecha o regla clara (por defecto, diez días después de su publicación en el Diario Oficial, CP art. 129).
+
+## 7. Principio de conexidad
+
+> [!advertencia]
+> **Una sola materia.** Cada proyecto debe tratar una sola materia. La acumulación de reformas heterogéneas dificulta el debate, diluye la responsabilidad y puede provocar vicios de procedimiento. Las reformas a distintas leyes solo son admisibles si son conexas con la materia principal.
+
+---
+
+**Fuente del capítulo.** Corpus: `plantilla-proyecto-ley/01-portada-y-exposicion-motivos.md`, `02-parte-dispositiva.md`, `03-disposiciones-finales.md`; `tecnica-legislativa/01-doctrina/09-requisitos-formales.md`, `25-estructura-logica.md`. Normativa: CP arts. 124, 129, 140 inc. 3; RAL art. 113.

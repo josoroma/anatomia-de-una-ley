@@ -1,0 +1,58 @@
+---
+numero: 7
+parte: "Parte II · La vida de un proyecto"
+titulo: "El trámite legislativo, paso a paso"
+slug: "el-tramite-legislativo"
+resumen: "El recorrido completo de un proyecto: de la iniciativa al dictamen y a los debates del Plenario."
+---
+
+# El trámite legislativo, paso a paso
+
+> [!concepto]
+> **La biografía de una ley.** Todo proyecto recorre una secuencia de estaciones: iniciativa → presentación → numeración → comisión → dictamen → debates → votación → sanción → publicación. Cada estación es una decisión humana y, por tanto, un punto donde el proyecto puede avanzar, detenerse, modificarse o morir.
+
+## El hecho jurídico
+
+El trámite tiene dos niveles, como se vio en el capítulo 6: los trámites **constitucionales** (los dos debates, la sanción del Ejecutivo y la publicación) que son ineludibles, y los trámites **reglamentarios** (paso por comisión, plazos, formalidades) que pueden dispensarse en casos de urgencia. El artículo 124 constitucional fija el estándar:
+
+> [!norma]
+> **CP art. 124.** «Para convertirse en ley, todo proyecto deberá ser objeto de dos debates, cada uno en día distinto no consecutivo, obtener la aprobación de la Asamblea Legislativa y la sanción del Poder Ejecutivo; además, deberá publicarse en La Gaceta...»
+
+Los dos debates no son una formalidad: son dos lecturas del proyecto en días distintos y no consecutivos, un diseño deliberado para impedir la aprobación "de un solo impulso". El tiempo entre debates es, en el diseño constitucional, una garantía de reflexión.
+
+## Cómo funciona
+
+El recorrido ordinario de un proyecto de ley es, en síntesis:
+
+1. **Iniciativa.** Un diputado, el Ejecutivo (por ministros) o el pueblo (5%) presenta el proyecto.
+2. **Registro y numeración.** El proyecto ingresa al expediente y recibe número.
+3. **Publicación y auto de presentación.** Se publica el texto y el Directorio emite el auto que lo remite a comisión.
+4. **Estudio en comisión.** La comisión analiza, recibe audiencias y enmiendas, y emite **dictamen** (afirmativo, afirmativo con modificaciones, o negativo; único o con votos de minoría).
+5. **Discusión de los dictámenes.** El Plenario discute primero el de mayoría; si se desecha, el de minoría.
+6. **Primer debate.** Aprobación en general.
+7. **Mociones de fondo.** Se discuten y votan las enmiendas al texto.
+8. **Segundo debate.** Aprobación definitiva del texto articulado. Si hubo modificaciones sustantivas en segundo debate, puede requerirse un **tercer debate** sobre el texto definitivo.
+9. **Sanción.** El proyecto aprobado pasa al Ejecutivo.
+10. **Publicación.** La ley se publica en La Gaceta y adquiere fuerza obligatoria.
+
+> [!ejemplo]
+> **La regla del texto definitivo.** Si durante el segundo debate se aprueban modificaciones que cambian el sentido de lo votado en primero, la práctica legislativa somete el texto definitivo a un tercer debate. Es la defensa del principio de que nada se convierte en ley sin haber sido leído en su forma final.
+
+## Incentivos y efectos
+
+El trámite está diseñado para ser lento. La lentitud es una garantía deliberativa: obliga a que el texto madure, a que las objeciones afloren, a que las minorías tengan oportunidad de enmendar. Pero la lentitud tiene un precio político: quien impulsa un proyecto percibe cada estación como un costo y siente la tentación de comprimir el recorrido.
+
+Ahí nace la tensión central de esta Parte II: **el valor de la deliberación frente al valor de la rapidez**. El diseño constitucional apuesta por la deliberación; la práctica política, presionada por la urgencia declarada, apuesta por la rapidez. Las figuras de la Parte II siguiente —dispensa de trámites, vías rápidas, plazos perentorios— son todas expresiones de esa tensión.
+
+> [!critica]
+> **¿Quién paga la lentitud?** La lentitud legislativa no es neutra. La paga, en primer lugar, quien espera la norma (beneficiarios difusos y futuros); se beneficia de ella quien prefiere el *statu quo*. Invertir los términos: la rapidez la paga quien no alcanzó a leer, a enmendar o a objetar —casi siempre las minorías y los ciudadanos— y la disfruta quien controla la agenda. Por eso la pregunta correcta no es "¿rápido o lento?", sino "¿quién gana y quién pierde con la velocidad?".
+
+## Análisis crítico y juicio normativo
+
+Un trámite bien calibrado es aquel en que la velocidad es proporcional a la madurez del texto: los proyectos simples avanzan sin obstáculos; los complejos maduran. El riesgo de diseño es doble: un trámite demasiado rígido convierte el Parlamento en un cuello de botella que no resuelve nada; un trámite demasiado flexible lo convierte en una imprenta que aprueba sin deliberar.
+
+El criterio que esta obra propone es que **la compresión del trámite debe estar en razón inversa a la generalidad y el impacto de la norma**: cuanto más general y costosa sea la regla, más deliberación exige; cuanto más concreta y reversible, menos. Ese criterio, aplicado con honestidad, resuelve la mayoría de las disputas sobre "urgencia".
+
+---
+
+**Fuente del capítulo.** CP arts. 124, 129. Corpus: `formulacion-y-tramite/06-iii-tramitacion-general-de-proyectos.md`; `tecnica-legislativa/01-doctrina/10-tramite-legislativo.md`, `05-formacion-de-las-leyes.md`.

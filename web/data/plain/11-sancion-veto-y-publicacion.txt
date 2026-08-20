@@ -1,0 +1,48 @@
+Sanción, veto y publicación
+
+Concepto: La ley no nace al votarse. Un proyecto aprobado por la Asamblea todavía no es ley. Le falta el paso por el Ejecutivo (sanción o veto) y la publicación en el Diario Oficial. Este capítulo examina ese cierre, donde se juega el último contrapeso entre los poderes.
+
+El hecho jurídico: el veto
+
+Norma: CP art. 125. «Si el Poder Ejecutivo no aprobare el proyecto de ley votado por la Asamblea, lo vetará y lo devolverá con las objeciones pertinentes. No procede el veto en cuanto al proyecto que aprueba el Presupuesto Ordinario de la República.»
+
+[!norma]
+CP art. 126. «Dentro de los diez días hábiles contados a partir de la fecha en que se haya recibido un proyecto de ley aprobado por la Asamblea Legislativa, el Poder Ejecutivo podrá objetarlo porque lo juzgue inconveniente o crea necesario hacerle reformas; en este último caso las propondrá al devolver el proyecto. Si no lo objeta dentro de ese plazo no podrá el Poder Ejecutivo dejar de sancionarlo y publicarlo.»
+
+El veto es la facultad del Ejecutivo de devolver el proyecto con objeciones. Tiene tres rasgos: es temporal (diez días hábiles), es motivado (debe devolver con las objeciones pertinentes) y es inoponible al Presupuesto Ordinario. Si el plazo transcurre sin objeción, opera la sanción tácita: el Ejecutivo ya no puede negarse a sancionar y publicar.
+
+El hecho jurídico: la insistencia
+
+Norma: CP art. 127. «Reconsiderado el proyecto por la Asamblea, con las observaciones del Poder Ejecutivo, y si la Asamblea las desechare y el proyecto fuere nuevamente aprobado por dos tercios de votos del total de sus miembros, quedará sancionado y se mandará a ejecutar como ley de la República. Si se adoptaren las modificaciones propuestas, se devolverá el proyecto al Poder Ejecutivo, quien no podrá negarle la sanción. De ser desechadas, y de no reunirse los dos tercios de votos para resellarlo, se archivará y no podrá ser considerado sino hasta la siguiente legislatura.»
+
+Ante el veto, la Asamblea tiene tres caminos: (1) insistir —desechar las objeciones y re-aprobar por dos tercios del total, con lo que el proyecto queda sancionado pese al veto—; (2) ceder —adoptar las modificaciones propuestas y devolverlo, caso en que el Ejecutivo no puede negar la sanción—; o (3) archivar —si no reúne los dos tercios, el proyecto se archiva hasta la siguiente legislatura.
+
+Norma: CP art. 128. «Si el veto se funda en razones de inconstitucionalidad no aceptadas por la Asamblea Legislativa, ésta enviará el decreto legislativo a la Sala indicada en el artículo 10, para que resuelva el diferendo dentro de los treinta días naturales siguientes a la fecha en que reciba el expediente. Se tendrán por desechadas las disposiciones declaradas inconstitucionales y las demás se enviarán a la Asamblea Legislativa para la tramitación correspondiente. Lo mismo se hará con el proyecto de ley aprobado por la Asamblea Legislativa, cuando la Sala declare que no contiene disposiciones inconstitucionales.»
+
+Cuando la objeción es de constitucionalidad, el diferendo no se resuelve por la fuerza de los votos sino por el control jurisdiccional: si la Asamblea rechaza las objeciones, envía el decreto a la Sala Constitucional, que debe resolver en treinta días naturales. La Sala desecha lo que declare inconstitucional y devuelve lo demás; si nada es inconstitucional, el proyecto queda firme. El veto de constitucionalidad convierte así al tribunal constitucional en árbitro final del desacuerdo entre poderes.
+
+El hecho jurídico: la publicación
+
+Norma: CP art. 129. «Las leyes son obligatorias y surten efectos desde el día que ellas designen; a falta de este requisito, diez días después de su publicación en el Diario Oficial. Nadie puede alegar ignorancia de la ley, salvo en los casos que la misma autorice. (...) La ley no queda abrogada ni derogada sino por otra posterior; contra su observancia no podrá alegarse desuso, costumbre ni práctica en contrario.»
+
+La publicación es el acto que da a la ley fuerza obligatoria. Sin publicación no hay ley exigible: la norma surte efectos desde la fecha que ella designe o, en defecto, diez días después de su publicación. La ficción de que "nadie puede alegar ignorancia de la ley" solo es defendible si la publicación es real, accesible y oportuna.
+
+Cómo funciona: el juego del veto
+
+El veto es un juego de doble nivel. En el nivel jurídico, es un contrapeso: permite al Ejecutivo frenar o enmendar lo que considera inconveniente. En el nivel político, es una negociación: el veto total o parcial pone a la Asamblea ante el costo de reunir dos tercios —costoso— o de ceder —que es, en la práctica, negociar.
+
+Pregunta crítica: ¿Quién paga el veto? El veto es barato para el Ejecutivo y caro para la Asamblea: objetar cuesta poco (una firma y un mensaje), insistir cuesta mucho (dos tercios del total). Esa asimetría da al Ejecutivo un poder de negociación desproporcionado sobre el contenido final, incluso cuando formalmente perdió la votación. El veto convierte al Presidente en un segundo legislador, y su poder real es tanto mayor cuanto más fragmentada esté la Asamblea.
+
+Incentivos y efectos
+
+La sanción tácita premia la inacción: el Ejecutivo que no objeta en diez días queda obligado a sancionar. El veto, en cambio, premia la objeción temprana y motivada. La insistencia por dos tercios premia a las mayorías calificadas: solo una coalición amplia puede imponerse al veto, lo que fuerza acuerdos.
+
+El efecto de fondo es que el diseño favorece el acuerdo entre poderes: ni el Ejecutivo puede imponer su texto ni la Asamblea (salvo dos tercios) puede imponer el suyo. Es un mecanismo de pesos y contrapesos que funciona —pero al precio de que el texto final sea el producto de una negociación entre dos poderes, no necesariamente de una deliberación pública.
+
+Pregunta crítica: La publicidad como garantía olvidada. La doctrina trata la publicación como un acto formal; el análisis crítico la trata como una garantía sustantiva. Una ley no publicada oportunamente, o publicada de forma oscura, es una ley que no puede ser conocida —y sin conocimiento, la obligatoriedad es una ficción que castiga al ignorante. La calidad de la publicación (acceso, oportunidad, buscabilidad) es parte de la calidad de la ley.
+
+Análisis crítico y juicio normativo
+
+El cierre del ciclo —sanción, veto, publicación— es donde se verifica si el sistema de contrapesos funciona o se convierte en una negociación opaca entre poderes. La regla de oro es que toda objeción y toda insistencia deben ser públicas y motivadas: el veto debe explicar por qué, y la insistencia debe responder por qué desecha esas razones. Lo que se decide a puerta cerrada entre Ejecutivo y Asamblea es, al final, ley para todos; tiene derecho el público a conocer el razonamiento.
+
+Fuente del capítulo. CP arts. 125, 126, 127, 129. Corpus: formulacion-y-tramite/07-iv-tramites-modificatorios-del-proyecto.md; tecnica-legislativa/01-doctrina/22-sancion-y-veto.md.

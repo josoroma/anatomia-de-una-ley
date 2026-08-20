@@ -1,0 +1,40 @@
+Estructura lógica y arquitectura normativa
+
+Concepto: Una ley es un sistema, no una lista. Un articulado mal estructurado se contradice, se solapa y delega por omisión. La estructura lógica —el orden y la jerarquía interna de las disposiciones— es lo que convierte una colección de frases en un instrumento normativo coherente.
+
+El hecho jurídico
+
+La doctrina compilada distingue la estructura lógica según la clase de proyecto. Un proyecto puede ser:
+Originario o autónomo. Crea una regulación nueva, completa en sí misma.
+Modificativo. Reforma una o varias normas existentes: cambia artículos, incisos, palabras.
+Derogatorio. Suprime normas del ordenamiento.
+
+Cada clase exige una arquitectura distinta. El proyecto modificativo debe identificar con precisión qué se reforma y cómo queda el texto (la técnica de "subrayar y tachar" o de transcribir el nuevo texto); el derogatorio, qué se deroga y desde cuándo.
+
+Advertencia: El error del proyecto "parche". Un proyecto modificativo mal construido —que reforma un inciso sin decir cómo queda el artículo completo, o que modifica una ley sin verificar sus concordancias— siembra colisiones y lagunas. La arquitectura normativa exige ver la ley como un todo: cada modificación debe cotejarse contra las remisiones, las definiciones y las disposiciones conexas que deja vivas.
+
+Cómo funciona: jerarquía y numeración
+
+El texto legislativo costarricense usa una jerarquía reconocible, documentada en el corpus:
+Artículos, numerados correlativamente.
+Incisos, que dividen el artículo (numerales 1), 2), 3)...).
+Subincisos, divisiones del inciso (a), b), c)...).
+Letras dobles, para un nivel más profundo (aa), bb)...), en textos muy complejos.
+
+La numeración es parte del contenido, no un adorno: las remisiones internas ("conforme al inciso 3) del artículo 12") dependen de que la numeración sea estable y unívoca. Un error de numeración es un error normativo.
+
+Pregunta crítica: La estructura como mapa del poder de decidir. La arquitectura de una ley revela dónde se concentra la decisión. Una norma que todo lo remite a reglamentos concentra el poder en el Ejecutivo; una que fija reglas exhaustivas lo retiene en el legislador; una que usa conceptos indeterminados lo entrega al juez o al administrador. Al leer la estructura de una ley, la pregunta no es solo "¿qué dice?", sino "¿a quién habilita esta estructura para decidir el resto?".
+
+Incentivos y efectos
+
+Una estructura desordenada tiene un efecto sistemático: traslada la decisión del texto a la interpretación. Cuando la ley es internamente inconsistente, el aplicador debe elegir entre disposiciones en conflicto, y esa elección es poder. El legislador que legisla desordenadamente no deja de decidir: decide, por omisión, que otro decida.
+
+La estructura lógica rigurosa es el antídoto: obliga a que las decisiones estén tomadas y ordenadas en el texto, y a que las remisiones y concordancias sean verificables.
+
+Pregunta crítica: La prueba de la concordancia. Antes de aprobar, conviene preguntar: ¿se cotejó cada artículo modificado contra todas las disposiciones que lo citan? ¿Se verificó que no queden definiciones huérfanas ni remisiones rotas? ¿Se declaró expresamente qué queda derogado? Si esas preguntas no tienen respuesta en el expediente, la ley nacerá con colisiones que luego pagarán, en litigios y en arbitrariedad, quienes deban aplicarla.
+
+Análisis crítico y juicio normativo
+
+La estructura lógica es la columna vertebral de la técnica legislativa: sin ella, la claridad del capítulo anterior es imposible, porque un texto claro pero desordenado sigue siendo un texto que se contradice. La regla de oro es la coherencia verificable: cada artículo debe tener una función identificable, cada remisión debe ser exacta y cada modificación debe declarar el estado completo de la norma reformada.
+
+Fuente del capítulo. Corpus: tecnica-legislativa/01-doctrina/25-estructura-logica.md, 11-estructura-proyecto-ley-modificativa.md, 12-estructura-proyecto-ley-derogatoria.md; formulacion-y-tramite/08-v-texto-legislativo-y-sus-partes.md.

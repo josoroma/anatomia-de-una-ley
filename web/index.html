@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es" data-tema="oscuro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anatomía de una Ley · Manual crítico del procedimiento legislativo costarricense</title>
+  <meta name="description" content="Manual crítico del procedimiento legislativo costarricense: procedimiento, técnica legislativa, doctrina, jurisprudencia, plantillas y checklists." />
+  <link rel="stylesheet" href="assets/css/estilo.css" />
+  <script>document.documentElement.dataset.tema = localStorage.getItem("anatomia.tema") || "oscuro";</script>
+</head>
+<body>
+
+  <div class="progreso" id="barra-progreso" aria-hidden="true"><div class="progreso__relleno" id="barra-relleno"></div></div>
+
+  <div class="marco">
+    <!-- ══════════ Sidebar ══════════ -->
+    <aside class="lateral" id="lateral">
+      <header class="lateral__cabecera">
+        <p class="lateral__coleccion">Hermes Legal · Corpus de procedimiento legislativo</p>
+        <h1 class="lateral__titulo">Anatomía de una Ley</h1>
+        <p class="lateral__subtitulo">Manual crítico del procedimiento legislativo costarricense</p>
+      </header>
+
+      <nav class="indice" id="indice" aria-label="Índice del libro"></nav>
+
+      <footer class="lateral__pie">
+        <button class="boton boton--tema" id="boton-tema" type="button" aria-label="Cambiar tema">
+          <span id="tema-icono">☾</span><span id="tema-texto">Tema oscuro</span>
+        </button>
+        <p class="lateral__nota">No sustituye el criterio profesional del abogado responsable.</p>
+      </footer>
+    </aside>
+
+    <!-- ══════════ Lector ══════════ -->
+    <main class="lector" id="lector">
+      <button class="boton boton--menu" id="boton-menu" type="button" aria-label="Abrir índice">☰</button>
+
+      <article class="capitulo" id="capitulo">
+        <div class="capitulo__cargando">Cargando…</div>
+      </article>
+
+      <nav class="navegacion" id="navegacion" aria-label="Navegación entre capítulos"></nav>
+    </main>
+  </div>
+
+  <!-- ══════════ Reproductor de audio ══════════ -->
+  <footer class="reproductor" id="reproductor" hidden>
+    <div class="reproductor__meta">
+      <span class="reproductor__etiqueta" id="audio-etiqueta">Escuchando</span>
+      <span class="reproductor__titulo" id="audio-titulo"></span>
+    </div>
+    <button class="reproductor__boton" id="audio-retro" type="button" title="Retroceder 15 s" aria-label="Retroceder 15 segundos">↺15</button>
+    <button class="reproductor__boton reproductor__boton--play" id="audio-play" type="button" title="Reproducir / pausar" aria-label="Reproducir o pausar">▶</button>
+    <button class="reproductor__boton" id="audio-adelante" type="button" title="Avanzar 15 s" aria-label="Avanzar 15 segundos">15↻</button>
+    <div class="reproductor__pista">
+      <input type="range" id="audio-barra" min="0" max="100" step="0.1" value="0" aria-label="Progreso de la reproducción" />
+      <div class="reproductor__tiempo"><span id="audio-actual">0:00</span> / <span id="audio-total">0:00</span></div>
+    </div>
+    <select class="reproductor__velocidad" id="audio-velocidad" title="Velocidad de reproducción" aria-label="Velocidad de reproducción">
+      <option value="0.75">0.75×</option>
+      <option value="1" selected>1×</option>
+      <option value="1.25">1.25×</option>
+      <option value="1.5">1.5×</option>
+      <option value="2">2×</option>
+    </select>
+    <audio id="audio" preload="metadata"></audio>
+  </footer>
+
+  <div class="velo" id="velo" hidden></div>
+  <div class="continuar" id="continuar" hidden>
+    <span id="continuar-texto"></span>
+    <button class="boton boton--continuar" id="continuar-boton" type="button">Continuar</button>
+    <button class="boton boton--cerrar" id="continuar-cerrar" type="button" aria-label="Cerrar">×</button>
+  </div>
+
+  <script src="data/libro.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
